@@ -1,1874 +1,1874 @@
 [
   {
-    "Country": "Afghanistan",
-    "Capital City": "Kabul",
-    "Latitude": 34.5289,
-    "Longitude": 69.1725,
-    "Population": 4011770,
-    "Capital Type": "Capital"
-  },
-  {
-    "Country": "Albania",
-    "Capital City": "Tiranë (Tirana)",
-    "Latitude": 41.3275,
-    "Longitude": 19.8189,
-    "Population": 475577,
-    "Capital Type": "Capital"
-  },
-  {
-    "Country": "Algeria",
-    "Capital City": "El Djazaïr  (Algiers)",
-    "Latitude": 36.7525,
-    "Longitude": 3.042,
-    "Population": 2693542,
-    "Capital Type": "Capital"
-  },
-  {
-    "Country": "American Samoa",
-    "Capital City": "Pago Pago",
-    "Latitude": -14.2781,
-    "Longitude": -170.7025,
-    "Population": 48526,
-    "Capital Type": "Capital"
-  },
-  {
-    "Country": "Andorra",
-    "Capital City": "Andorra la Vella",
-    "Latitude": 42.5078,
-    "Longitude": 1.5211,
-    "Population": 22614,
-    "Capital Type": "Capital"
-  },
-  {
-    "Country": "Angola",
-    "Capital City": "Luanda",
-    "Latitude": -8.8368,
-    "Longitude": 13.2343,
-    "Population": 7774200,
-    "Capital Type": "Capital"
-  },
-  {
-    "Country": "Anguilla",
-    "Capital City": "The Valley",
-    "Latitude": 18.217,
-    "Longitude": -63.0578,
-    "Population": 1402,
-    "Capital Type": "Capital"
-  },
-  {
-    "Country": "Antigua and Barbuda",
-    "Capital City": "St. John's",
-    "Latitude": 17.1172,
-    "Longitude": -61.8457,
-    "Population": 20764,
-    "Capital Type": "Capital"
-  },
-  {
-    "Country": "Argentina",
-    "Capital City": "Buenos Aires",
-    "Latitude": -34.6051,
-    "Longitude": -58.4004,
-    "Population": 14966530,
-    "Capital Type": "Capital"
-  },
-  {
-    "Country": "Armenia",
-    "Capital City": "Yerevan",
-    "Latitude": 40.182,
-    "Longitude": 44.5146,
-    "Population": 1080324,
-    "Capital Type": "Capital"
-  },
-  {
-    "Country": "Aruba",
-    "Capital City": "Oranjestad",
-    "Latitude": 12.524,
-    "Longitude": -70.027,
-    "Population": 29877,
-    "Capital Type": "Capital"
-  },
-  {
-    "Country": "Australia",
-    "Capital City": "Canberra",
-    "Latitude": -35.2835,
-    "Longitude": 149.1281,
-    "Population": 447692,
-    "Capital Type": "Capital"
-  },
-  {
-    "Country": "Austria",
-    "Capital City": "Wien (Vienna)",
-    "Latitude": 48.2064,
-    "Longitude": 16.3707,
-    "Population": 1900547,
-    "Capital Type": "Capital"
+    "country": "Afghanistan",
+    "capital": "Kabul",
+    "lat": 34.5289,
+    "lng": 69.1725,
+    "population": 4011770,
+    "capitalType": "Capital"
+  },
+  {
+    "country": "Albania",
+    "capital": "Tiranë (Tirana)",
+    "lat": 41.3275,
+    "lng": 19.8189,
+    "population": 475577,
+    "capitalType": "Capital"
+  },
+  {
+    "country": "Algeria",
+    "capital": "El Djazaïr  (Algiers)",
+    "lat": 36.7525,
+    "lng": 3.042,
+    "population": 2693542,
+    "capitalType": "Capital"
+  },
+  {
+    "country": "American Samoa",
+    "capital": "Pago Pago",
+    "lat": -14.2781,
+    "lng": -170.7025,
+    "population": 48526,
+    "capitalType": "Capital"
+  },
+  {
+    "country": "Andorra",
+    "capital": "Andorra la Vella",
+    "lat": 42.5078,
+    "lng": 1.5211,
+    "population": 22614,
+    "capitalType": "Capital"
+  },
+  {
+    "country": "Angola",
+    "capital": "Luanda",
+    "lat": -8.8368,
+    "lng": 13.2343,
+    "population": 7774200,
+    "capitalType": "Capital"
+  },
+  {
+    "country": "Anguilla",
+    "capital": "The Valley",
+    "lat": 18.217,
+    "lng": -63.0578,
+    "population": 1402,
+    "capitalType": "Capital"
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "capital": "St. John's",
+    "lat": 17.1172,
+    "lng": -61.8457,
+    "population": 20764,
+    "capitalType": "Capital"
+  },
+  {
+    "country": "Argentina",
+    "capital": "Buenos Aires",
+    "lat": -34.6051,
+    "lng": -58.4004,
+    "population": 14966530,
+    "capitalType": "Capital"
+  },
+  {
+    "country": "Armenia",
+    "capital": "Yerevan",
+    "lat": 40.182,
+    "lng": 44.5146,
+    "population": 1080324,
+    "capitalType": "Capital"
+  },
+  {
+    "country": "Aruba",
+    "capital": "Oranjestad",
+    "lat": 12.524,
+    "lng": -70.027,
+    "population": 29877,
+    "capitalType": "Capital"
+  },
+  {
+    "country": "Australia",
+    "capital": "Canberra",
+    "lat": -35.2835,
+    "lng": 149.1281,
+    "population": 447692,
+    "capitalType": "Capital"
+  },
+  {
+    "country": "Austria",
+    "capital": "Wien (Vienna)",
+    "lat": 48.2064,
+    "lng": 16.3707,
+    "population": 1900547,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Azerbaijan",
-    "Capital City": "Baku",
-    "Latitude": 40.3777,
-    "Longitude": 49.892,
-    "Population": 2285729,
-    "Capital Type": "Capital"
+    "country": "Azerbaijan",
+    "capital": "Baku",
+    "lat": 40.3777,
+    "lng": 49.892,
+    "population": 2285729,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Bahamas",
-    "Capital City": "Nassau",
-    "Latitude": 25.0582,
-    "Longitude": -77.3431,
-    "Population": 279668,
-    "Capital Type": "Capital"
+    "country": "Bahamas",
+    "capital": "Nassau",
+    "lat": 25.0582,
+    "lng": -77.3431,
+    "population": 279668,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Bahrain",
-    "Capital City": "Al-Manamah (Manama)",
-    "Latitude": 26.2154,
-    "Longitude": 50.5832,
-    "Population": 564631,
-    "Capital Type": "Capital"
+    "country": "Bahrain",
+    "capital": "Al-Manamah (Manama)",
+    "lat": 26.2154,
+    "lng": 50.5832,
+    "population": 564631,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Bangladesh",
-    "Capital City": "Dhaka",
-    "Latitude": 23.7104,
-    "Longitude": 90.4074,
-    "Population": 19578421,
-    "Capital Type": "Capital"
+    "country": "Bangladesh",
+    "capital": "Dhaka",
+    "lat": 23.7104,
+    "lng": 90.4074,
+    "population": 19578421,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Barbados",
-    "Capital City": "Bridgetown",
-    "Latitude": 13.1,
-    "Longitude": -59.6167,
-    "Population": 89201,
-    "Capital Type": "Capital"
+    "country": "Barbados",
+    "capital": "Bridgetown",
+    "lat": 13.1,
+    "lng": -59.6167,
+    "population": 89201,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Belarus",
-    "Capital City": "Minsk",
-    "Latitude": 53.9,
-    "Longitude": 27.5667,
-    "Population": 2004672,
-    "Capital Type": "Capital"
+    "country": "Belarus",
+    "capital": "Minsk",
+    "lat": 53.9,
+    "lng": 27.5667,
+    "population": 2004672,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Belgium",
-    "Capital City": "Bruxelles-Brussel",
-    "Latitude": 50.8467,
-    "Longitude": 4.3499,
-    "Population": 2049510,
-    "Capital Type": "Capital"
+    "country": "Belgium",
+    "capital": "Bruxelles-Brussel",
+    "lat": 50.8467,
+    "lng": 4.3499,
+    "population": 2049510,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Belize",
-    "Capital City": "Belmopan",
-    "Latitude": 17.25,
-    "Longitude": -88.7667,
-    "Population": 22964,
-    "Capital Type": "Capital"
+    "country": "Belize",
+    "capital": "Belmopan",
+    "lat": 17.25,
+    "lng": -88.7667,
+    "population": 22964,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Benin",
-    "Capital City": "Cotonou",
-    "Latitude": 6.3654,
-    "Longitude": 2.4183,
-    "Population": 685458,
-    "Capital Type": "Economic Capital"
+    "country": "Benin",
+    "capital": "Cotonou",
+    "lat": 6.3654,
+    "lng": 2.4183,
+    "population": 685458,
+    "capitalType": "Economic Capital"
   },
   {
-    "Country": "Bermuda",
-    "Capital City": "Hamilton",
-    "Latitude": 32.2915,
-    "Longitude": -64.778,
-    "Population": 10073,
-    "Capital Type": "Capital"
+    "country": "Bermuda",
+    "capital": "Hamilton",
+    "lat": 32.2915,
+    "lng": -64.778,
+    "population": 10073,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Bhutan",
-    "Capital City": "Thimphu",
-    "Latitude": 27.4661,
-    "Longitude": 89.6419,
-    "Population": 203297,
-    "Capital Type": "Capital"
+    "country": "Bhutan",
+    "capital": "Thimphu",
+    "lat": 27.4661,
+    "lng": 89.6419,
+    "population": 203297,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Bolivia (Plurinational State of)",
-    "Capital City": "La Paz",
-    "Latitude": -16.5,
-    "Longitude": -68.15,
-    "Population": 1814087,
-    "Capital Type": "Seat of Government"
+    "country": "Bolivia (Plurinational State of)",
+    "capital": "La Paz",
+    "lat": -16.5,
+    "lng": -68.15,
+    "population": 1814087,
+    "capitalType": "Seat of Government"
   },
   {
-    "Country": "Bosnia and Herzegovina",
-    "Capital City": "Sarajevo",
-    "Latitude": 43.8486,
-    "Longitude": 18.3564,
-    "Population": 342577,
-    "Capital Type": "Capital"
+    "country": "Bosnia and Herzegovina",
+    "capital": "Sarajevo",
+    "lat": 43.8486,
+    "lng": 18.3564,
+    "population": 342577,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Botswana",
-    "Capital City": "Gaborone",
-    "Latitude": -24.6545,
-    "Longitude": 25.9086,
-    "Population": 269338,
-    "Capital Type": "Capital"
+    "country": "Botswana",
+    "capital": "Gaborone",
+    "lat": -24.6545,
+    "lng": 25.9086,
+    "population": 269338,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Brazil",
-    "Capital City": "Brasília",
-    "Latitude": -15.7797,
-    "Longitude": -47.9297,
-    "Population": 4469585,
-    "Capital Type": "Capital"
+    "country": "Brazil",
+    "capital": "Brasília",
+    "lat": -15.7797,
+    "lng": -47.9297,
+    "population": 4469585,
+    "capitalType": "Capital"
   },
   {
-    "Country": "British Virgin Islands",
-    "Capital City": "Road Town",
-    "Latitude": 18.4167,
-    "Longitude": -64.6167,
-    "Population": 15137,
-    "Capital Type": "Capital"
+    "country": "British Virgin Islands",
+    "capital": "Road Town",
+    "lat": 18.4167,
+    "lng": -64.6167,
+    "population": 15137,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Brunei Darussalam",
-    "Capital City": "Bandar Seri Begawan",
-    "Latitude": 4.9403,
-    "Longitude": 114.9481,
-    "Population": 40781,
-    "Capital Type": "Capital"
+    "country": "Brunei Darussalam",
+    "capital": "Bandar Seri Begawan",
+    "lat": 4.9403,
+    "lng": 114.9481,
+    "population": 40781,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Bulgaria",
-    "Capital City": "Sofia",
-    "Latitude": 42.6975,
-    "Longitude": 23.3242,
-    "Population": 1272418,
-    "Capital Type": "Capital"
+    "country": "Bulgaria",
+    "capital": "Sofia",
+    "lat": 42.6975,
+    "lng": 23.3242,
+    "population": 1272418,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Burkina Faso",
-    "Capital City": "Ouagadougou",
-    "Latitude": 12.3642,
-    "Longitude": -1.5383,
-    "Population": 2531381,
-    "Capital Type": "Capital"
+    "country": "Burkina Faso",
+    "capital": "Ouagadougou",
+    "lat": 12.3642,
+    "lng": -1.5383,
+    "population": 2531381,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Burundi",
-    "Capital City": "Bujumbura",
-    "Latitude": -3.3822,
-    "Longitude": 29.3644,
-    "Population": 898968,
-    "Capital Type": "Capital"
+    "country": "Burundi",
+    "capital": "Bujumbura",
+    "lat": -3.3822,
+    "lng": 29.3644,
+    "population": 898968,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Cabo Verde",
-    "Capital City": "Praia",
-    "Latitude": 14.9215,
-    "Longitude": -23.5087,
-    "Population": 167504,
-    "Capital Type": "Capital"
+    "country": "Cabo Verde",
+    "capital": "Praia",
+    "lat": 14.9215,
+    "lng": -23.5087,
+    "population": 167504,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Cambodia",
-    "Capital City": "Phnum Pénh (Phnom Penh)",
-    "Latitude": 11.5625,
-    "Longitude": 104.916,
-    "Population": 1952329,
-    "Capital Type": "Capital"
+    "country": "Cambodia",
+    "capital": "Phnum Pénh (Phnom Penh)",
+    "lat": 11.5625,
+    "lng": 104.916,
+    "population": 1952329,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Cameroon",
-    "Capital City": "Yaoundé",
-    "Latitude": 3.8667,
-    "Longitude": 11.5167,
-    "Population": 3655656,
-    "Capital Type": "Capital"
+    "country": "Cameroon",
+    "capital": "Yaoundé",
+    "lat": 3.8667,
+    "lng": 11.5167,
+    "population": 3655656,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Canada",
-    "Capital City": "Ottawa-Gatineau",
-    "Latitude": 45.4166,
-    "Longitude": -75.698,
-    "Population": 1363159,
-    "Capital Type": "Capital"
+    "country": "Canada",
+    "capital": "Ottawa-Gatineau",
+    "lat": 45.4166,
+    "lng": -75.698,
+    "population": 1363159,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Caribbean Netherlands",
-    "Capital City": "Kralendijk",
-    "Latitude": 12.15,
-    "Longitude": -68.2667,
-    "Population": 11313,
-    "Capital Type": "Capital"
+    "country": "Caribbean Netherlands",
+    "capital": "Kralendijk",
+    "lat": 12.15,
+    "lng": -68.2667,
+    "population": 11313,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Cayman Islands",
-    "Capital City": "George Town",
-    "Latitude": 19.2866,
-    "Longitude": -81.3744,
-    "Population": 34875,
-    "Capital Type": "Capital"
+    "country": "Cayman Islands",
+    "capital": "George Town",
+    "lat": 19.2866,
+    "lng": -81.3744,
+    "population": 34875,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Central African Republic",
-    "Capital City": "Bangui",
-    "Latitude": 4.3612,
-    "Longitude": 18.555,
-    "Population": 850946,
-    "Capital Type": "Capital"
+    "country": "Central African Republic",
+    "capital": "Bangui",
+    "lat": 4.3612,
+    "lng": 18.555,
+    "population": 850946,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Chad",
-    "Capital City": "N'Djaména",
-    "Latitude": 12.1067,
-    "Longitude": 15.0444,
-    "Population": 1322679,
-    "Capital Type": "Capital"
+    "country": "Chad",
+    "capital": "N'Djaména",
+    "lat": 12.1067,
+    "lng": 15.0444,
+    "population": 1322679,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Channel Islands",
-    "Capital City": "St. Helier",
-    "Latitude": 49.188,
-    "Longitude": -2.1049,
-    "Population": 34386,
-    "Capital Type": "Capital"
+    "country": "Channel Islands",
+    "capital": "St. Helier",
+    "lat": 49.188,
+    "lng": -2.1049,
+    "population": 34386,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Channel Islands",
-    "Capital City": "St. Peter Port",
-    "Latitude": 49.4598,
-    "Longitude": -2.5353,
-    "Population": 16271,
-    "Capital Type": "Capital"
+    "country": "Channel Islands",
+    "capital": "St. Peter Port",
+    "lat": 49.4598,
+    "lng": -2.5353,
+    "population": 16271,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Chile",
-    "Capital City": "Santiago",
-    "Latitude": -33.4569,
-    "Longitude": -70.6483,
-    "Population": 6680371,
-    "Capital Type": "Capital"
+    "country": "Chile",
+    "capital": "Santiago",
+    "lat": -33.4569,
+    "lng": -70.6483,
+    "population": 6680371,
+    "capitalType": "Capital"
   },
   {
-    "Country": "China",
-    "Capital City": "Beijing",
-    "Latitude": 39.9075,
-    "Longitude": 116.3972,
-    "Population": 19617963,
-    "Capital Type": "Capital"
+    "country": "China",
+    "capital": "Beijing",
+    "lat": 39.9075,
+    "lng": 116.3972,
+    "population": 19617963,
+    "capitalType": "Capital"
   },
   {
-    "Country": "China, Hong Kong SAR",
-    "Capital City": "Hong Kong",
-    "Latitude": 22.2796,
-    "Longitude": 114.1887,
-    "Population": 7428887,
-    "Capital Type": "Capital"
+    "country": "China, Hong Kong SAR",
+    "capital": "Hong Kong",
+    "lat": 22.2796,
+    "lng": 114.1887,
+    "population": 7428887,
+    "capitalType": "Capital"
   },
   {
-    "Country": "China, Macao SAR",
-    "Capital City": "Macao",
-    "Latitude": 22.2006,
-    "Longitude": 113.5461,
-    "Population": 632418,
-    "Capital Type": "Capital"
+    "country": "China, Macao SAR",
+    "capital": "Macao",
+    "lat": 22.2006,
+    "lng": 113.5461,
+    "population": 632418,
+    "capitalType": "Capital"
   },
   {
-    "Country": "China, Taiwan Province of China",
-    "Capital City": "Taibei",
-    "Latitude": 25.047,
-    "Longitude": 121.5457,
-    "Population": 2705791,
-    "Capital Type": "Others"
+    "country": "China, Taiwan Province of China",
+    "capital": "Taibei",
+    "lat": 25.047,
+    "lng": 121.5457,
+    "population": 2705791,
+    "capitalType": "Others"
   },
   {
-    "Country": "Colombia",
-    "Capital City": "Bogotá",
-    "Latitude": 4.6097,
-    "Longitude": -74.0818,
-    "Population": 10574409,
-    "Capital Type": "Capital"
+    "country": "Colombia",
+    "capital": "Bogotá",
+    "lat": 4.6097,
+    "lng": -74.0818,
+    "population": 10574409,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Comoros",
-    "Capital City": "Moroni",
-    "Latitude": -11.7022,
-    "Longitude": 43.2551,
-    "Population": 62351,
-    "Capital Type": "Capital"
+    "country": "Comoros",
+    "capital": "Moroni",
+    "lat": -11.7022,
+    "lng": 43.2551,
+    "population": 62351,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Congo",
-    "Capital City": "Brazzaville",
-    "Latitude": -4.2658,
-    "Longitude": 15.2832,
-    "Population": 2229693,
-    "Capital Type": "Capital"
+    "country": "Congo",
+    "capital": "Brazzaville",
+    "lat": -4.2658,
+    "lng": 15.2832,
+    "population": 2229693,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Cook Islands",
-    "Capital City": "Rarotonga",
-    "Latitude": -21.23,
-    "Longitude": -159.76,
-    "Population": 13067,
-    "Capital Type": "Capital"
+    "country": "Cook Islands",
+    "capital": "Rarotonga",
+    "lat": -21.23,
+    "lng": -159.76,
+    "population": 13067,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Costa Rica",
-    "Capital City": "San José",
-    "Latitude": 9.9278,
-    "Longitude": -84.0807,
-    "Population": 1357745,
-    "Capital Type": "Capital"
+    "country": "Costa Rica",
+    "capital": "San José",
+    "lat": 9.9278,
+    "lng": -84.0807,
+    "population": 1357745,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Côte d'Ivoire",
-    "Capital City": "Abidjan",
-    "Latitude": 5.3453,
-    "Longitude": -4.0268,
-    "Population": 4920776,
-    "Capital Type": "Administrative Capital"
+    "country": "Côte d'Ivoire",
+    "capital": "Abidjan",
+    "lat": 5.3453,
+    "lng": -4.0268,
+    "population": 4920776,
+    "capitalType": "Administrative Capital"
   },
   {
-    "Country": "Croatia",
-    "Capital City": "Zagreb",
-    "Latitude": 45.8144,
-    "Longitude": 15.978,
-    "Population": 685587,
-    "Capital Type": "Capital"
+    "country": "Croatia",
+    "capital": "Zagreb",
+    "lat": 45.8144,
+    "lng": 15.978,
+    "population": 685587,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Cuba",
-    "Capital City": "La Habana (Havana)",
-    "Latitude": 23.1195,
-    "Longitude": -82.3785,
-    "Population": 2136468,
-    "Capital Type": "Capital"
+    "country": "Cuba",
+    "capital": "La Habana (Havana)",
+    "lat": 23.1195,
+    "lng": -82.3785,
+    "population": 2136468,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Curaçao",
-    "Capital City": "Willemstad",
-    "Latitude": 12.1084,
-    "Longitude": -68.9335,
-    "Population": 144037,
-    "Capital Type": "Capital"
+    "country": "Curaçao",
+    "capital": "Willemstad",
+    "lat": 12.1084,
+    "lng": -68.9335,
+    "population": 144037,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Cyprus",
-    "Capital City": "Lefkosia (Nicosia)",
-    "Latitude": 35.1595,
-    "Longitude": 33.3669,
-    "Population": 269469,
-    "Capital Type": "Capital"
+    "country": "Cyprus",
+    "capital": "Lefkosia (Nicosia)",
+    "lat": 35.1595,
+    "lng": 33.3669,
+    "population": 269469,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Czechia",
-    "Capital City": "Praha (Prague)",
-    "Latitude": 50.088,
-    "Longitude": 14.4208,
-    "Population": 1291552,
-    "Capital Type": "Capital"
+    "country": "Czechia",
+    "capital": "Praha (Prague)",
+    "lat": 50.088,
+    "lng": 14.4208,
+    "population": 1291552,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Dem. People's Republic of Korea",
-    "Capital City": "P'yongyang",
-    "Latitude": 39.0339,
-    "Longitude": 125.7543,
-    "Population": 3037862,
-    "Capital Type": "Capital"
+    "country": "Dem. People's Republic of Korea",
+    "capital": "P'yongyang",
+    "lat": 39.0339,
+    "lng": 125.7543,
+    "population": 3037862,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Democratic Republic of the Congo",
-    "Capital City": "Kinshasa",
-    "Latitude": -4.3276,
-    "Longitude": 15.3136,
-    "Population": 13171256,
-    "Capital Type": "Capital"
+    "country": "Democratic Republic of the Congo",
+    "capital": "Kinshasa",
+    "lat": -4.3276,
+    "lng": 15.3136,
+    "population": 13171256,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Denmark",
-    "Capital City": "København (Copenhagen)",
-    "Latitude": 55.6759,
-    "Longitude": 12.5655,
-    "Population": 1320826,
-    "Capital Type": "Capital"
+    "country": "Denmark",
+    "capital": "København (Copenhagen)",
+    "lat": 55.6759,
+    "lng": 12.5655,
+    "population": 1320826,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Djibouti",
-    "Capital City": "Djibouti",
-    "Latitude": 11.5877,
-    "Longitude": 43.1447,
-    "Population": 561564,
-    "Capital Type": "Capital"
+    "country": "Djibouti",
+    "capital": "Djibouti",
+    "lat": 11.5877,
+    "lng": 43.1447,
+    "population": 561564,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Dominica",
-    "Capital City": "Roseau",
-    "Latitude": 15.3017,
-    "Longitude": -61.3881,
-    "Population": 14942,
-    "Capital Type": "Capital"
+    "country": "Dominica",
+    "capital": "Roseau",
+    "lat": 15.3017,
+    "lng": -61.3881,
+    "population": 14942,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Dominican Republic",
-    "Capital City": "Santo Domingo",
-    "Latitude": 18.4896,
-    "Longitude": -69.9018,
-    "Population": 3172152,
-    "Capital Type": "Capital"
+    "country": "Dominican Republic",
+    "capital": "Santo Domingo",
+    "lat": 18.4896,
+    "lng": -69.9018,
+    "population": 3172152,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Ecuador",
-    "Capital City": "Quito",
-    "Latitude": -0.2299,
-    "Longitude": -78.525,
-    "Population": 1822397,
-    "Capital Type": "Capital"
+    "country": "Ecuador",
+    "capital": "Quito",
+    "lat": -0.2299,
+    "lng": -78.525,
+    "population": 1822397,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Egypt",
-    "Capital City": "Al-Qahirah (Cairo)",
-    "Latitude": 30.0392,
-    "Longitude": 31.2394,
-    "Population": 20076002,
-    "Capital Type": "Capital"
+    "country": "Egypt",
+    "capital": "Al-Qahirah (Cairo)",
+    "lat": 30.0392,
+    "lng": 31.2394,
+    "population": 20076002,
+    "capitalType": "Capital"
   },
   {
-    "Country": "El Salvador",
-    "Capital City": "San Salvador",
-    "Latitude": 13.6894,
-    "Longitude": -89.1872,
-    "Population": 1106698,
-    "Capital Type": "Capital"
+    "country": "El Salvador",
+    "capital": "San Salvador",
+    "lat": 13.6894,
+    "lng": -89.1872,
+    "population": 1106698,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Equatorial Guinea",
-    "Capital City": "Malabo",
-    "Latitude": 3.75,
-    "Longitude": 8.7833,
-    "Population": 296770,
-    "Capital Type": "Capital"
+    "country": "Equatorial Guinea",
+    "capital": "Malabo",
+    "lat": 3.75,
+    "lng": 8.7833,
+    "population": 296770,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Eritrea",
-    "Capital City": "Asmara",
-    "Latitude": 15.3333,
-    "Longitude": 38.9333,
-    "Population": 895863,
-    "Capital Type": "Capital"
+    "country": "Eritrea",
+    "capital": "Asmara",
+    "lat": 15.3333,
+    "lng": 38.9333,
+    "population": 895863,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Estonia",
-    "Capital City": "Tallinn",
-    "Latitude": 59.437,
-    "Longitude": 24.7535,
-    "Population": 437027,
-    "Capital Type": "Capital"
+    "country": "Estonia",
+    "capital": "Tallinn",
+    "lat": 59.437,
+    "lng": 24.7535,
+    "population": 437027,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Ethiopia",
-    "Capital City": "Addis Ababa",
-    "Latitude": 9.025,
-    "Longitude": 38.7469,
-    "Population": 4399674,
-    "Capital Type": "Capital"
+    "country": "Ethiopia",
+    "capital": "Addis Ababa",
+    "lat": 9.025,
+    "lng": 38.7469,
+    "population": 4399674,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Faeroe Islands",
-    "Capital City": "Tórshavn",
-    "Latitude": 62.0097,
-    "Longitude": -6.7716,
-    "Population": 20817,
-    "Capital Type": "Capital"
+    "country": "Faeroe Islands",
+    "capital": "Tórshavn",
+    "lat": 62.0097,
+    "lng": -6.7716,
+    "population": 20817,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Falkland Islands (Malvinas)",
-    "Capital City": "Stanley",
-    "Latitude": -51.7012,
-    "Longitude": -57.8494,
-    "Population": 2269,
-    "Capital Type": "Others"
+    "country": "Falkland Islands (Malvinas)",
+    "capital": "Stanley",
+    "lat": -51.7012,
+    "lng": -57.8494,
+    "population": 2269,
+    "capitalType": "Others"
   },
   {
-    "Country": "Fiji",
-    "Capital City": "Suva",
-    "Latitude": -18.1416,
-    "Longitude": 178.4415,
-    "Population": 178339,
-    "Capital Type": "Capital"
+    "country": "Fiji",
+    "capital": "Suva",
+    "lat": -18.1416,
+    "lng": 178.4415,
+    "population": 178339,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Finland",
-    "Capital City": "Helsinki",
-    "Latitude": 60.1692,
-    "Longitude": 24.9402,
-    "Population": 1279096,
-    "Capital Type": "Capital"
+    "country": "Finland",
+    "capital": "Helsinki",
+    "lat": 60.1692,
+    "lng": 24.9402,
+    "population": 1279096,
+    "capitalType": "Capital"
   },
   {
-    "Country": "France",
-    "Capital City": "Paris",
-    "Latitude": 48.8534,
-    "Longitude": 2.3488,
-    "Population": 10900952,
-    "Capital Type": "Capital"
+    "country": "France",
+    "capital": "Paris",
+    "lat": 48.8534,
+    "lng": 2.3488,
+    "population": 10900952,
+    "capitalType": "Capital"
   },
   {
-    "Country": "French Guiana",
-    "Capital City": "Cayenne",
-    "Latitude": 4.9333,
-    "Longitude": -52.3333,
-    "Population": 57506,
-    "Capital Type": "Capital"
+    "country": "French Guiana",
+    "capital": "Cayenne",
+    "lat": 4.9333,
+    "lng": -52.3333,
+    "population": 57506,
+    "capitalType": "Capital"
   },
   {
-    "Country": "French Polynesia",
-    "Capital City": "Papeete",
-    "Latitude": -17.5333,
-    "Longitude": -149.5667,
-    "Population": 136005,
-    "Capital Type": "Capital"
+    "country": "French Polynesia",
+    "capital": "Papeete",
+    "lat": -17.5333,
+    "lng": -149.5667,
+    "population": 136005,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Gabon",
-    "Capital City": "Libreville",
-    "Latitude": 0.3925,
-    "Longitude": 9.4537,
-    "Population": 813489,
-    "Capital Type": "Capital"
+    "country": "Gabon",
+    "capital": "Libreville",
+    "lat": 0.3925,
+    "lng": 9.4537,
+    "population": 813489,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Gambia",
-    "Capital City": "Banjul",
-    "Latitude": 13.4531,
-    "Longitude": -16.6794,
-    "Population": 437161,
-    "Capital Type": "Capital"
+    "country": "Gambia",
+    "capital": "Banjul",
+    "lat": 13.4531,
+    "lng": -16.6794,
+    "population": 437161,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Georgia",
-    "Capital City": "Tbilisi",
-    "Latitude": 41.6941,
-    "Longitude": 44.8337,
-    "Population": 1077333,
-    "Capital Type": "Capital"
+    "country": "Georgia",
+    "capital": "Tbilisi",
+    "lat": 41.6941,
+    "lng": 44.8337,
+    "population": 1077333,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Germany",
-    "Capital City": "Berlin",
-    "Latitude": 52.5244,
-    "Longitude": 13.4105,
-    "Population": 3552123,
-    "Capital Type": "Capital"
+    "country": "Germany",
+    "capital": "Berlin",
+    "lat": 52.5244,
+    "lng": 13.4105,
+    "population": 3552123,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Ghana",
-    "Capital City": "Accra",
-    "Latitude": 5.556,
-    "Longitude": -0.1969,
-    "Population": 2439389,
-    "Capital Type": "Capital"
+    "country": "Ghana",
+    "capital": "Accra",
+    "lat": 5.556,
+    "lng": -0.1969,
+    "population": 2439389,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Gibraltar",
-    "Capital City": "Gibraltar",
-    "Latitude": 36.1447,
-    "Longitude": -5.3526,
-    "Population": 34733,
-    "Capital Type": "Capital"
+    "country": "Gibraltar",
+    "capital": "Gibraltar",
+    "lat": 36.1447,
+    "lng": -5.3526,
+    "population": 34733,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Greece",
-    "Capital City": "Athínai (Athens)",
-    "Latitude": 37.9534,
-    "Longitude": 23.749,
-    "Population": 3155600,
-    "Capital Type": "Capital"
+    "country": "Greece",
+    "capital": "Athínai (Athens)",
+    "lat": 37.9534,
+    "lng": 23.749,
+    "population": 3155600,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Greenland",
-    "Capital City": "Nuuk (Godthåb)",
-    "Latitude": 64.1835,
-    "Longitude": -51.7216,
-    "Population": 18406,
-    "Capital Type": "Capital"
+    "country": "Greenland",
+    "capital": "Nuuk (Godthåb)",
+    "lat": 64.1835,
+    "lng": -51.7216,
+    "population": 18406,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Grenada",
-    "Capital City": "St.George's",
-    "Latitude": 12.0564,
-    "Longitude": -61.7485,
-    "Population": 39297,
-    "Capital Type": "Capital"
+    "country": "Grenada",
+    "capital": "St.George's",
+    "lat": 12.0564,
+    "lng": -61.7485,
+    "population": 39297,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Guadeloupe",
-    "Capital City": "Basse-Terre",
-    "Latitude": 15.9985,
-    "Longitude": -61.7255,
-    "Population": 58397,
-    "Capital Type": "Capital"
+    "country": "Guadeloupe",
+    "capital": "Basse-Terre",
+    "lat": 15.9985,
+    "lng": -61.7255,
+    "population": 58397,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Guam",
-    "Capital City": "Hagåtña",
-    "Latitude": 13.4757,
-    "Longitude": 144.7489,
-    "Population": 146905,
-    "Capital Type": "Capital"
+    "country": "Guam",
+    "capital": "Hagåtña",
+    "lat": 13.4757,
+    "lng": 144.7489,
+    "population": 146905,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Guatemala",
-    "Capital City": "Ciudad de Guatemala (Guatemala City)",
-    "Latitude": 14.6127,
-    "Longitude": -90.5307,
-    "Population": 2851104,
-    "Capital Type": "Capital"
+    "country": "Guatemala",
+    "capital": "Ciudad de Guatemala (Guatemala City)",
+    "lat": 14.6127,
+    "lng": -90.5307,
+    "population": 2851104,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Guinea",
-    "Capital City": "Conakry",
-    "Latitude": 9.5716,
-    "Longitude": -13.6476,
-    "Population": 1843121,
-    "Capital Type": "Capital"
+    "country": "Guinea",
+    "capital": "Conakry",
+    "lat": 9.5716,
+    "lng": -13.6476,
+    "population": 1843121,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Guinea-Bissau",
-    "Capital City": "Bissau",
-    "Latitude": 11.8636,
-    "Longitude": -15.5977,
-    "Population": 558399,
-    "Capital Type": "Capital"
+    "country": "Guinea-Bissau",
+    "capital": "Bissau",
+    "lat": 11.8636,
+    "lng": -15.5977,
+    "population": 558399,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Guyana",
-    "Capital City": "Georgetown",
-    "Latitude": 6.8045,
-    "Longitude": -58.1553,
-    "Population": 109934,
-    "Capital Type": "Capital"
+    "country": "Guyana",
+    "capital": "Georgetown",
+    "lat": 6.8045,
+    "lng": -58.1553,
+    "population": 109934,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Haiti",
-    "Capital City": "Port-au-Prince",
-    "Latitude": 18.5392,
-    "Longitude": -72.335,
-    "Population": 2636763,
-    "Capital Type": "Capital"
+    "country": "Haiti",
+    "capital": "Port-au-Prince",
+    "lat": 18.5392,
+    "lng": -72.335,
+    "population": 2636763,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Holy See",
-    "Capital City": "Vatican City",
-    "Latitude": 41.9024,
-    "Longitude": 12.4533,
-    "Population": 801,
-    "Capital Type": "Capital"
+    "country": "Holy See",
+    "capital": "Vatican City",
+    "lat": 41.9024,
+    "lng": 12.4533,
+    "population": 801,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Honduras",
-    "Capital City": "Tegucigalpa",
-    "Latitude": 14.0818,
-    "Longitude": -87.2068,
-    "Population": 1363041,
-    "Capital Type": "Capital"
+    "country": "Honduras",
+    "capital": "Tegucigalpa",
+    "lat": 14.0818,
+    "lng": -87.2068,
+    "population": 1363041,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Hungary",
-    "Capital City": "Budapest",
-    "Latitude": 47.498,
-    "Longitude": 19.0399,
-    "Population": 1759497,
-    "Capital Type": "Capital"
+    "country": "Hungary",
+    "capital": "Budapest",
+    "lat": 47.498,
+    "lng": 19.0399,
+    "population": 1759497,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Iceland",
-    "Capital City": "Reykjavík",
-    "Latitude": 64.1355,
-    "Longitude": -21.8954,
-    "Population": 216364,
-    "Capital Type": "Capital"
+    "country": "Iceland",
+    "capital": "Reykjavík",
+    "lat": 64.1355,
+    "lng": -21.8954,
+    "population": 216364,
+    "capitalType": "Capital"
   },
   {
-    "Country": "India",
-    "Capital City": "Delhi",
-    "Latitude": 28.6667,
-    "Longitude": 77.2167,
-    "Population": 28513682,
-    "Capital Type": "Capital"
+    "country": "India",
+    "capital": "Delhi",
+    "lat": 28.6667,
+    "lng": 77.2167,
+    "population": 28513682,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Indonesia",
-    "Capital City": "Jakarta",
-    "Latitude": -6.2118,
-    "Longitude": 106.8416,
-    "Population": 10516927,
-    "Capital Type": "Capital"
+    "country": "Indonesia",
+    "capital": "Jakarta",
+    "lat": -6.2118,
+    "lng": 106.8416,
+    "population": 10516927,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Iran (Islamic Republic of)",
-    "Capital City": "Tehran",
-    "Latitude": 35.6944,
-    "Longitude": 51.4215,
-    "Population": 8895947,
-    "Capital Type": "Capital"
+    "country": "Iran (Islamic Republic of)",
+    "capital": "Tehran",
+    "lat": 35.6944,
+    "lng": 51.4215,
+    "population": 8895947,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Iraq",
-    "Capital City": "Baghdad",
-    "Latitude": 33.3406,
-    "Longitude": 44.4009,
-    "Population": 6811955,
-    "Capital Type": "Capital"
+    "country": "Iraq",
+    "capital": "Baghdad",
+    "lat": 33.3406,
+    "lng": 44.4009,
+    "population": 6811955,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Ireland",
-    "Capital City": "Dublin",
-    "Latitude": 53.3331,
-    "Longitude": -6.2489,
-    "Population": 1201426,
-    "Capital Type": "Capital"
+    "country": "Ireland",
+    "capital": "Dublin",
+    "lat": 53.3331,
+    "lng": -6.2489,
+    "population": 1201426,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Isle of Man",
-    "Capital City": "Douglas",
-    "Latitude": 54.15,
-    "Longitude": -4.4833,
-    "Population": 27171,
-    "Capital Type": "Capital"
+    "country": "Isle of Man",
+    "capital": "Douglas",
+    "lat": 54.15,
+    "lng": -4.4833,
+    "population": 27171,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Israel",
-    "Capital City": "Jerusalem",
-    "Latitude": 31.769,
-    "Longitude": 35.2163,
-    "Population": 907062,
-    "Capital Type": "Capital"
+    "country": "Israel",
+    "capital": "Jerusalem",
+    "lat": 31.769,
+    "lng": 35.2163,
+    "population": 907062,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Italy",
-    "Capital City": "Roma (Rome)",
-    "Latitude": 41.8947,
-    "Longitude": 12.4811,
-    "Population": 4209710,
-    "Capital Type": "Capital"
+    "country": "Italy",
+    "capital": "Roma (Rome)",
+    "lat": 41.8947,
+    "lng": 12.4811,
+    "population": 4209710,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Jamaica",
-    "Capital City": "Kingston",
-    "Latitude": 17.997,
-    "Longitude": -76.7936,
-    "Population": 589083,
-    "Capital Type": "Capital"
+    "country": "Jamaica",
+    "capital": "Kingston",
+    "lat": 17.997,
+    "lng": -76.7936,
+    "population": 589083,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Japan",
-    "Capital City": "Tokyo",
-    "Latitude": 35.6895,
-    "Longitude": 139.6917,
-    "Population": 37468302,
-    "Capital Type": "Capital"
+    "country": "Japan",
+    "capital": "Tokyo",
+    "lat": 35.6895,
+    "lng": 139.6917,
+    "population": 37468302,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Jordan",
-    "Capital City": "Amman",
-    "Latitude": 31.9552,
-    "Longitude": 35.945,
-    "Population": 2064582,
-    "Capital Type": "Capital"
+    "country": "Jordan",
+    "capital": "Amman",
+    "lat": 31.9552,
+    "lng": 35.945,
+    "population": 2064582,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Kazakhstan",
-    "Capital City": "Astana",
-    "Latitude": 51.1801,
-    "Longitude": 71.446,
-    "Population": 1068113,
-    "Capital Type": "Capital"
+    "country": "Kazakhstan",
+    "capital": "Astana",
+    "lat": 51.1801,
+    "lng": 71.446,
+    "population": 1068113,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Kenya",
-    "Capital City": "Nairobi",
-    "Latitude": -1.2833,
-    "Longitude": 36.8167,
-    "Population": 4385853,
-    "Capital Type": "Capital"
+    "country": "Kenya",
+    "capital": "Nairobi",
+    "lat": -1.2833,
+    "lng": 36.8167,
+    "population": 4385853,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Kiribati",
-    "Capital City": "Tarawa",
-    "Latitude": 1.3272,
-    "Longitude": 172.9813,
-    "Population": 64011,
-    "Capital Type": "Capital"
+    "country": "Kiribati",
+    "capital": "Tarawa",
+    "lat": 1.3272,
+    "lng": 172.9813,
+    "population": 64011,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Kuwait",
-    "Capital City": "Al Kuwayt (Kuwait City)",
-    "Latitude": 29.3697,
-    "Longitude": 47.9783,
-    "Population": 2989270,
-    "Capital Type": "Capital"
+    "country": "Kuwait",
+    "capital": "Al Kuwayt (Kuwait City)",
+    "lat": 29.3697,
+    "lng": 47.9783,
+    "population": 2989270,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Kyrgyzstan",
-    "Capital City": "Bishkek",
-    "Latitude": 42.87,
-    "Longitude": 74.59,
-    "Population": 996319,
-    "Capital Type": "Capital"
+    "country": "Kyrgyzstan",
+    "capital": "Bishkek",
+    "lat": 42.87,
+    "lng": 74.59,
+    "population": 996319,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Lao People's Democratic Republic",
-    "Capital City": "Vientiane",
-    "Latitude": 17.9667,
-    "Longitude": 102.6,
-    "Population": 664754,
-    "Capital Type": "Capital"
+    "country": "Lao People's Democratic Republic",
+    "capital": "Vientiane",
+    "lat": 17.9667,
+    "lng": 102.6,
+    "population": 664754,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Latvia",
-    "Capital City": "Riga",
-    "Latitude": 56.946,
-    "Longitude": 24.1059,
-    "Population": 637089,
-    "Capital Type": "Capital"
+    "country": "Latvia",
+    "capital": "Riga",
+    "lat": 56.946,
+    "lng": 24.1059,
+    "population": 637089,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Lebanon",
-    "Capital City": "Bayrut (Beirut)",
-    "Latitude": 33.9,
-    "Longitude": 35.4833,
-    "Population": 2385271,
-    "Capital Type": "Capital"
+    "country": "Lebanon",
+    "capital": "Bayrut (Beirut)",
+    "lat": 33.9,
+    "lng": 35.4833,
+    "population": 2385271,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Lesotho",
-    "Capital City": "Maseru",
-    "Latitude": -29.3167,
-    "Longitude": 27.4833,
-    "Population": 201851,
-    "Capital Type": "Capital"
+    "country": "Lesotho",
+    "capital": "Maseru",
+    "lat": -29.3167,
+    "lng": 27.4833,
+    "population": 201851,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Liberia",
-    "Capital City": "Monrovia",
-    "Latitude": 6.3005,
-    "Longitude": -10.7969,
-    "Population": 1418300,
-    "Capital Type": "Capital"
+    "country": "Liberia",
+    "capital": "Monrovia",
+    "lat": 6.3005,
+    "lng": -10.7969,
+    "population": 1418300,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Libya",
-    "Capital City": "Tarabulus (Tripoli)",
-    "Latitude": 32.8752,
-    "Longitude": 13.1875,
-    "Population": 1157746,
-    "Capital Type": "Capital"
+    "country": "Libya",
+    "capital": "Tarabulus (Tripoli)",
+    "lat": 32.8752,
+    "lng": 13.1875,
+    "population": 1157746,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Liechtenstein",
-    "Capital City": "Vaduz",
-    "Latitude": 47.1415,
-    "Longitude": 9.5215,
-    "Population": 5470,
-    "Capital Type": "Capital"
+    "country": "Liechtenstein",
+    "capital": "Vaduz",
+    "lat": 47.1415,
+    "lng": 9.5215,
+    "population": 5470,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Lithuania",
-    "Capital City": "Vilnius",
-    "Latitude": 54.6892,
-    "Longitude": 25.2798,
-    "Population": 536055,
-    "Capital Type": "Capital"
+    "country": "Lithuania",
+    "capital": "Vilnius",
+    "lat": 54.6892,
+    "lng": 25.2798,
+    "population": 536055,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Luxembourg",
-    "Capital City": "Luxembourg",
-    "Latitude": 49.6117,
-    "Longitude": 6.13,
-    "Population": 119752,
-    "Capital Type": "Capital"
+    "country": "Luxembourg",
+    "capital": "Luxembourg",
+    "lat": 49.6117,
+    "lng": 6.13,
+    "population": 119752,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Madagascar",
-    "Capital City": "Antananarivo",
-    "Latitude": -18.9137,
-    "Longitude": 47.5361,
-    "Population": 3058387,
-    "Capital Type": "Capital"
+    "country": "Madagascar",
+    "capital": "Antananarivo",
+    "lat": -18.9137,
+    "lng": 47.5361,
+    "population": 3058387,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Malawi",
-    "Capital City": "Lilongwe",
-    "Latitude": -13.9669,
-    "Longitude": 33.7873,
-    "Population": 1029639,
-    "Capital Type": "Capital"
+    "country": "Malawi",
+    "capital": "Lilongwe",
+    "lat": -13.9669,
+    "lng": 33.7873,
+    "population": 1029639,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Malaysia",
-    "Capital City": "Kuala Lumpur",
-    "Latitude": 3.1412,
-    "Longitude": 101.6865,
-    "Population": 7563912,
-    "Capital Type": "Capital"
+    "country": "Malaysia",
+    "capital": "Kuala Lumpur",
+    "lat": 3.1412,
+    "lng": 101.6865,
+    "population": 7563912,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Maldives",
-    "Capital City": "Male",
-    "Latitude": 4.1748,
-    "Longitude": 73.5089,
-    "Population": 176851,
-    "Capital Type": "Capital"
+    "country": "Maldives",
+    "capital": "Male",
+    "lat": 4.1748,
+    "lng": 73.5089,
+    "population": 176851,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Mali",
-    "Capital City": "Bamako",
-    "Latitude": 12.65,
-    "Longitude": -8,
-    "Population": 2446749,
-    "Capital Type": "Capital"
+    "country": "Mali",
+    "capital": "Bamako",
+    "lat": 12.65,
+    "lng": -8,
+    "population": 2446749,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Malta",
-    "Capital City": "Valletta",
-    "Latitude": 35.8997,
-    "Longitude": 14.5147,
-    "Population": 212768,
-    "Capital Type": "Capital"
+    "country": "Malta",
+    "capital": "Valletta",
+    "lat": 35.8997,
+    "lng": 14.5147,
+    "population": 212768,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Marshall Islands",
-    "Capital City": "Majuro",
-    "Latitude": 7.0897,
-    "Longitude": 171.3803,
-    "Population": 30661,
-    "Capital Type": "Capital"
+    "country": "Marshall Islands",
+    "capital": "Majuro",
+    "lat": 7.0897,
+    "lng": 171.3803,
+    "population": 30661,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Martinique",
-    "Capital City": "Fort-de-France",
-    "Latitude": 14.6089,
-    "Longitude": -61.0733,
-    "Population": 79361,
-    "Capital Type": "Capital"
+    "country": "Martinique",
+    "capital": "Fort-de-France",
+    "lat": 14.6089,
+    "lng": -61.0733,
+    "population": 79361,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Mauritania",
-    "Capital City": "Nouakchott",
-    "Latitude": 18.0858,
-    "Longitude": -15.9785,
-    "Population": 1205414,
-    "Capital Type": "Capital"
+    "country": "Mauritania",
+    "capital": "Nouakchott",
+    "lat": 18.0858,
+    "lng": -15.9785,
+    "population": 1205414,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Mauritius",
-    "Capital City": "Port Louis",
-    "Latitude": -20.1619,
-    "Longitude": 57.4989,
-    "Population": 149365,
-    "Capital Type": "Capital"
+    "country": "Mauritius",
+    "capital": "Port Louis",
+    "lat": -20.1619,
+    "lng": 57.4989,
+    "population": 149365,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Mayotte",
-    "Capital City": "Mamoudzou",
-    "Latitude": -12.7794,
-    "Longitude": 45.2272,
-    "Population": 6180,
-    "Capital Type": "Capital"
+    "country": "Mayotte",
+    "capital": "Mamoudzou",
+    "lat": -12.7794,
+    "lng": 45.2272,
+    "population": 6180,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Mexico",
-    "Capital City": "Ciudad de México (Mexico City)",
-    "Latitude": 19.4273,
-    "Longitude": -99.1419,
-    "Population": 21580827,
-    "Capital Type": "Capital"
+    "country": "Mexico",
+    "capital": "Ciudad de México (Mexico City)",
+    "lat": 19.4273,
+    "lng": -99.1419,
+    "population": 21580827,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Micronesia (Fed. States of)",
-    "Capital City": "Palikir",
-    "Latitude": 6.9174,
-    "Longitude": 158.1588,
-    "Population": 6996,
-    "Capital Type": "Capital"
+    "country": "Micronesia (Fed. States of)",
+    "capital": "Palikir",
+    "lat": 6.9174,
+    "lng": 158.1588,
+    "population": 6996,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Monaco",
-    "Capital City": "Monaco",
-    "Latitude": 43.7333,
-    "Longitude": 7.4167,
-    "Population": 38897,
-    "Capital Type": "Capital"
+    "country": "Monaco",
+    "capital": "Monaco",
+    "lat": 43.7333,
+    "lng": 7.4167,
+    "population": 38897,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Mongolia",
-    "Capital City": "Ulaanbaatar",
-    "Latitude": 47.9077,
-    "Longitude": 106.8832,
-    "Population": 1520381,
-    "Capital Type": "Capital"
+    "country": "Mongolia",
+    "capital": "Ulaanbaatar",
+    "lat": 47.9077,
+    "lng": 106.8832,
+    "population": 1520381,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Montenegro",
-    "Capital City": "Podgorica",
-    "Latitude": 42.4411,
-    "Longitude": 19.2636,
-    "Population": 177177,
-    "Capital Type": "Capital"
+    "country": "Montenegro",
+    "capital": "Podgorica",
+    "lat": 42.4411,
+    "lng": 19.2636,
+    "population": 177177,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Montserrat",
-    "Capital City": "Brades Estate",
-    "Latitude": 16.7918,
-    "Longitude": -62.2106,
-    "Population": 472,
-    "Capital Type": "Capital"
+    "country": "Montserrat",
+    "capital": "Brades Estate",
+    "lat": 16.7918,
+    "lng": -62.2106,
+    "population": 472,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Morocco",
-    "Capital City": "Rabat",
-    "Latitude": 34.0133,
-    "Longitude": -6.8326,
-    "Population": 1846661,
-    "Capital Type": "Capital"
+    "country": "Morocco",
+    "capital": "Rabat",
+    "lat": 34.0133,
+    "lng": -6.8326,
+    "population": 1846661,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Mozambique",
-    "Capital City": "Maputo",
-    "Latitude": -25.9653,
-    "Longitude": 32.5892,
-    "Population": 1101771,
-    "Capital Type": "Capital"
+    "country": "Mozambique",
+    "capital": "Maputo",
+    "lat": -25.9653,
+    "lng": 32.5892,
+    "population": 1101771,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Myanmar",
-    "Capital City": "Nay Pyi Taw",
-    "Latitude": 19.745,
-    "Longitude": 96.1297,
-    "Population": 500218,
-    "Capital Type": "Capital"
+    "country": "Myanmar",
+    "capital": "Nay Pyi Taw",
+    "lat": 19.745,
+    "lng": 96.1297,
+    "population": 500218,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Namibia",
-    "Capital City": "Windhoek",
-    "Latitude": -22.5594,
-    "Longitude": 17.0832,
-    "Population": 404280,
-    "Capital Type": "Capital"
+    "country": "Namibia",
+    "capital": "Windhoek",
+    "lat": -22.5594,
+    "lng": 17.0832,
+    "population": 404280,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Nauru",
-    "Capital City": "Nauru",
-    "Latitude": -0.5308,
-    "Longitude": 166.9112,
-    "Population": 11312,
-    "Capital Type": "Capital"
+    "country": "Nauru",
+    "capital": "Nauru",
+    "lat": -0.5308,
+    "lng": 166.9112,
+    "population": 11312,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Nepal",
-    "Capital City": "Kathmandu",
-    "Latitude": 27.7017,
-    "Longitude": 85.3206,
-    "Population": 1329732,
-    "Capital Type": "Capital"
+    "country": "Nepal",
+    "capital": "Kathmandu",
+    "lat": 27.7017,
+    "lng": 85.3206,
+    "population": 1329732,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Netherlands",
-    "Capital City": "Amsterdam",
-    "Latitude": 52.374,
-    "Longitude": 4.8897,
-    "Population": 1131690,
-    "Capital Type": "Capital"
+    "country": "Netherlands",
+    "capital": "Amsterdam",
+    "lat": 52.374,
+    "lng": 4.8897,
+    "population": 1131690,
+    "capitalType": "Capital"
   },
   {
-    "Country": "New Caledonia",
-    "Capital City": "Nouméa",
-    "Latitude": -22.2763,
-    "Longitude": 166.4572,
-    "Population": 197787,
-    "Capital Type": "Capital"
+    "country": "New Caledonia",
+    "capital": "Nouméa",
+    "lat": -22.2763,
+    "lng": 166.4572,
+    "population": 197787,
+    "capitalType": "Capital"
   },
   {
-    "Country": "New Zealand",
-    "Capital City": "Wellington",
-    "Latitude": -41.2866,
-    "Longitude": 174.7756,
-    "Population": 411346,
-    "Capital Type": "Capital"
+    "country": "New Zealand",
+    "capital": "Wellington",
+    "lat": -41.2866,
+    "lng": 174.7756,
+    "population": 411346,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Nicaragua",
-    "Capital City": "Managua",
-    "Latitude": 12.1328,
-    "Longitude": -86.2504,
-    "Population": 1047923,
-    "Capital Type": "Capital"
+    "country": "Nicaragua",
+    "capital": "Managua",
+    "lat": 12.1328,
+    "lng": -86.2504,
+    "population": 1047923,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Niger",
-    "Capital City": "Niamey",
-    "Latitude": 13.5137,
-    "Longitude": 2.1098,
-    "Population": 1213781,
-    "Capital Type": "Capital"
+    "country": "Niger",
+    "capital": "Niamey",
+    "lat": 13.5137,
+    "lng": 2.1098,
+    "population": 1213781,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Nigeria",
-    "Capital City": "Abuja",
-    "Latitude": 9.0574,
-    "Longitude": 7.4898,
-    "Population": 2918518,
-    "Capital Type": "Capital"
+    "country": "Nigeria",
+    "capital": "Abuja",
+    "lat": 9.0574,
+    "lng": 7.4898,
+    "population": 2918518,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Niue",
-    "Capital City": "Alofi",
-    "Latitude": -19.0585,
-    "Longitude": -169.9213,
-    "Population": 727,
-    "Capital Type": "Capital"
+    "country": "Niue",
+    "capital": "Alofi",
+    "lat": -19.0585,
+    "lng": -169.9213,
+    "population": 727,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Northern Mariana Islands",
-    "Capital City": "Saipan",
-    "Latitude": 15.2123,
-    "Longitude": 145.7545,
-    "Population": 50568,
-    "Capital Type": "Capital"
+    "country": "Northern Mariana Islands",
+    "capital": "Saipan",
+    "lat": 15.2123,
+    "lng": 145.7545,
+    "population": 50568,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Norway",
-    "Capital City": "Oslo",
-    "Latitude": 59.9127,
-    "Longitude": 10.7461,
-    "Population": 1012225,
-    "Capital Type": "Capital"
+    "country": "Norway",
+    "capital": "Oslo",
+    "lat": 59.9127,
+    "lng": 10.7461,
+    "population": 1012225,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Oman",
-    "Capital City": "Masqat (Muscat)",
-    "Latitude": 23.6139,
-    "Longitude": 58.5922,
-    "Population": 1446563,
-    "Capital Type": "Capital"
+    "country": "Oman",
+    "capital": "Masqat (Muscat)",
+    "lat": 23.6139,
+    "lng": 58.5922,
+    "population": 1446563,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Pakistan",
-    "Capital City": "Islamabad",
-    "Latitude": 33.7035,
-    "Longitude": 73.0594,
-    "Population": 1061412,
-    "Capital Type": "Capital"
+    "country": "Pakistan",
+    "capital": "Islamabad",
+    "lat": 33.7035,
+    "lng": 73.0594,
+    "population": 1061412,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Palau",
-    "Capital City": "Koror",
-    "Latitude": 7.3426,
-    "Longitude": 134.4789,
-    "Population": 11410,
-    "Capital Type": "Capital"
+    "country": "Palau",
+    "capital": "Koror",
+    "lat": 7.3426,
+    "lng": 134.4789,
+    "population": 11410,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Panama",
-    "Capital City": "Ciudad de Panamá (Panama City)",
-    "Latitude": 8.9958,
-    "Longitude": -79.5196,
-    "Population": 1783490,
-    "Capital Type": "Capital"
+    "country": "Panama",
+    "capital": "Ciudad de Panamá (Panama City)",
+    "lat": 8.9958,
+    "lng": -79.5196,
+    "population": 1783490,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Papua New Guinea",
-    "Capital City": "Port Moresby",
-    "Latitude": -9.4431,
-    "Longitude": 147.1797,
-    "Population": 366862,
-    "Capital Type": "Capital"
+    "country": "Papua New Guinea",
+    "capital": "Port Moresby",
+    "lat": -9.4431,
+    "lng": 147.1797,
+    "population": 366862,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Paraguay",
-    "Capital City": "Asunción",
-    "Latitude": -25.3007,
-    "Longitude": -57.6359,
-    "Population": 3222199,
-    "Capital Type": "Capital"
+    "country": "Paraguay",
+    "capital": "Asunción",
+    "lat": -25.3007,
+    "lng": -57.6359,
+    "population": 3222199,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Peru",
-    "Capital City": "Lima",
-    "Latitude": -12.0432,
-    "Longitude": -77.0282,
-    "Population": 10390607,
-    "Capital Type": "Capital"
+    "country": "Peru",
+    "capital": "Lima",
+    "lat": -12.0432,
+    "lng": -77.0282,
+    "population": 10390607,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Philippines",
-    "Capital City": "Manila",
-    "Latitude": 14.6042,
-    "Longitude": 120.9822,
-    "Population": 13482468,
-    "Capital Type": "Capital"
+    "country": "Philippines",
+    "capital": "Manila",
+    "lat": 14.6042,
+    "lng": 120.9822,
+    "population": 13482468,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Poland",
-    "Capital City": "Warszawa (Warsaw)",
-    "Latitude": 52.2298,
-    "Longitude": 21.0118,
-    "Population": 1767798,
-    "Capital Type": "Capital"
+    "country": "Poland",
+    "capital": "Warszawa (Warsaw)",
+    "lat": 52.2298,
+    "lng": 21.0118,
+    "population": 1767798,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Portugal",
-    "Capital City": "Lisboa (Lisbon)",
-    "Latitude": 38.7169,
-    "Longitude": -9.1399,
-    "Population": 2927316,
-    "Capital Type": "Capital"
+    "country": "Portugal",
+    "capital": "Lisboa (Lisbon)",
+    "lat": 38.7169,
+    "lng": -9.1399,
+    "population": 2927316,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Puerto Rico",
-    "Capital City": "San Juan",
-    "Latitude": 18.4663,
-    "Longitude": -66.1057,
-    "Population": 2454337,
-    "Capital Type": "Capital"
+    "country": "Puerto Rico",
+    "capital": "San Juan",
+    "lat": 18.4663,
+    "lng": -66.1057,
+    "population": 2454337,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Qatar",
-    "Capital City": "Ad-Dawhah (Doha)",
-    "Latitude": 25.2747,
-    "Longitude": 51.5245,
-    "Population": 633401,
-    "Capital Type": "Capital"
+    "country": "Qatar",
+    "capital": "Ad-Dawhah (Doha)",
+    "lat": 25.2747,
+    "lng": 51.5245,
+    "population": 633401,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Republic of Korea",
-    "Capital City": "Seoul",
-    "Latitude": 37.5683,
-    "Longitude": 126.9778,
-    "Population": 9963497,
-    "Capital Type": "Capital"
+    "country": "Republic of Korea",
+    "capital": "Seoul",
+    "lat": 37.5683,
+    "lng": 126.9778,
+    "population": 9963497,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Republic of Moldova",
-    "Capital City": "Chişinău",
-    "Latitude": 47.0056,
-    "Longitude": 28.8575,
-    "Population": 509707,
-    "Capital Type": "Capital"
+    "country": "Republic of Moldova",
+    "capital": "Chişinău",
+    "lat": 47.0056,
+    "lng": 28.8575,
+    "population": 509707,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Réunion",
-    "Capital City": "Saint-Denis",
-    "Latitude": -20.8823,
-    "Longitude": 55.4504,
-    "Population": 147209,
-    "Capital Type": "Capital"
+    "country": "Réunion",
+    "capital": "Saint-Denis",
+    "lat": -20.8823,
+    "lng": 55.4504,
+    "population": 147209,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Romania",
-    "Capital City": "Bucuresti (Bucharest)",
-    "Latitude": 44.4328,
-    "Longitude": 26.1043,
-    "Population": 1821380,
-    "Capital Type": "Capital"
+    "country": "Romania",
+    "capital": "Bucuresti (Bucharest)",
+    "lat": 44.4328,
+    "lng": 26.1043,
+    "population": 1821380,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Russian Federation",
-    "Capital City": "Moskva (Moscow)",
-    "Latitude": 55.755,
-    "Longitude": 37.6218,
-    "Population": 12409738,
-    "Capital Type": "Capital"
+    "country": "Russian Federation",
+    "capital": "Moskva (Moscow)",
+    "lat": 55.755,
+    "lng": 37.6218,
+    "population": 12409738,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Rwanda",
-    "Capital City": "Kigali",
-    "Latitude": -1.9474,
-    "Longitude": 30.0579,
-    "Population": 1057836,
-    "Capital Type": "Capital"
+    "country": "Rwanda",
+    "capital": "Kigali",
+    "lat": -1.9474,
+    "lng": 30.0579,
+    "population": 1057836,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Saint Helena",
-    "Capital City": "Jamestown",
-    "Latitude": -15.9387,
-    "Longitude": -5.7168,
-    "Population": 603,
-    "Capital Type": "Capital"
+    "country": "Saint Helena",
+    "capital": "Jamestown",
+    "lat": -15.9387,
+    "lng": -5.7168,
+    "population": 603,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Saint Kitts and Nevis",
-    "Capital City": "Basseterre",
-    "Latitude": 17.2948,
-    "Longitude": -62.7261,
-    "Population": 14434,
-    "Capital Type": "Capital"
+    "country": "Saint Kitts and Nevis",
+    "capital": "Basseterre",
+    "lat": 17.2948,
+    "lng": -62.7261,
+    "population": 14434,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Saint Lucia",
-    "Capital City": "Castries",
-    "Latitude": 14.006,
-    "Longitude": -60.991,
-    "Population": 22258,
-    "Capital Type": "Capital"
+    "country": "Saint Lucia",
+    "capital": "Castries",
+    "lat": 14.006,
+    "lng": -60.991,
+    "population": 22258,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Saint Pierre and Miquelon",
-    "Capital City": "Saint-Pierre",
-    "Latitude": 46.7738,
-    "Longitude": -56.1815,
-    "Population": 5723,
-    "Capital Type": "Capital"
+    "country": "Saint Pierre and Miquelon",
+    "capital": "Saint-Pierre",
+    "lat": 46.7738,
+    "lng": -56.1815,
+    "population": 5723,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Saint Vincent and the Grenadines",
-    "Capital City": "Kingstown",
-    "Latitude": 13.1587,
-    "Longitude": -61.2248,
-    "Population": 26636,
-    "Capital Type": "Capital"
+    "country": "Saint Vincent and the Grenadines",
+    "capital": "Kingstown",
+    "lat": 13.1587,
+    "lng": -61.2248,
+    "population": 26636,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Samoa",
-    "Capital City": "Apia",
-    "Latitude": -13.8333,
-    "Longitude": -171.7667,
-    "Population": 36066,
-    "Capital Type": "Capital"
+    "country": "Samoa",
+    "capital": "Apia",
+    "lat": -13.8333,
+    "lng": -171.7667,
+    "population": 36066,
+    "capitalType": "Capital"
   },
   {
-    "Country": "San Marino",
-    "Capital City": "San Marino",
-    "Latitude": 43.9333,
-    "Longitude": 12.45,
-    "Population": 4465,
-    "Capital Type": "Capital"
+    "country": "San Marino",
+    "capital": "San Marino",
+    "lat": 43.9333,
+    "lng": 12.45,
+    "population": 4465,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Sao Tome and Principe",
-    "Capital City": "São Tomé",
-    "Latitude": 0.3365,
-    "Longitude": 6.7273,
-    "Population": 80099,
-    "Capital Type": "Capital"
+    "country": "Sao Tome and Principe",
+    "capital": "São Tomé",
+    "lat": 0.3365,
+    "lng": 6.7273,
+    "population": 80099,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Saudi Arabia",
-    "Capital City": "Ar-Riyadh (Riyadh)",
-    "Latitude": 24.6905,
-    "Longitude": 46.7096,
-    "Population": 6906595,
-    "Capital Type": "Capital"
+    "country": "Saudi Arabia",
+    "capital": "Ar-Riyadh (Riyadh)",
+    "lat": 24.6905,
+    "lng": 46.7096,
+    "population": 6906595,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Senegal",
-    "Capital City": "Dakar",
-    "Latitude": 14.6937,
-    "Longitude": -17.4441,
-    "Population": 2978419,
-    "Capital Type": "Capital"
+    "country": "Senegal",
+    "capital": "Dakar",
+    "lat": 14.6937,
+    "lng": -17.4441,
+    "population": 2978419,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Serbia",
-    "Capital City": "Beograd (Belgrade)",
-    "Latitude": 44.8176,
-    "Longitude": 20.4633,
-    "Population": 1389351,
-    "Capital Type": "Capital"
+    "country": "Serbia",
+    "capital": "Beograd (Belgrade)",
+    "lat": 44.8176,
+    "lng": 20.4633,
+    "population": 1389351,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Seychelles",
-    "Capital City": "Victoria",
-    "Latitude": -4.6167,
-    "Longitude": 55.45,
-    "Population": 28091,
-    "Capital Type": "Capital"
+    "country": "Seychelles",
+    "capital": "Victoria",
+    "lat": -4.6167,
+    "lng": 55.45,
+    "population": 28091,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Sierra Leone",
-    "Capital City": "Freetown",
-    "Latitude": 8.484,
-    "Longitude": -13.2299,
-    "Population": 1135949,
-    "Capital Type": "Capital"
+    "country": "Sierra Leone",
+    "capital": "Freetown",
+    "lat": 8.484,
+    "lng": -13.2299,
+    "population": 1135949,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Singapore",
-    "Capital City": "Singapore",
-    "Latitude": 1.2897,
-    "Longitude": 103.8501,
-    "Population": 5791901,
-    "Capital Type": "Capital"
+    "country": "Singapore",
+    "capital": "Singapore",
+    "lat": 1.2897,
+    "lng": 103.8501,
+    "population": 5791901,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Sint Maarten (Dutch part)",
-    "Capital City": "Philipsburg",
-    "Latitude": 18.026,
-    "Longitude": -63.0458,
-    "Population": 40552,
-    "Capital Type": "Capital"
+    "country": "Sint Maarten (Dutch part)",
+    "capital": "Philipsburg",
+    "lat": 18.026,
+    "lng": -63.0458,
+    "population": 40552,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Slovakia",
-    "Capital City": "Bratislava",
-    "Latitude": 48.1482,
-    "Longitude": 17.1067,
-    "Population": 429920,
-    "Capital Type": "Capital"
+    "country": "Slovakia",
+    "capital": "Bratislava",
+    "lat": 48.1482,
+    "lng": 17.1067,
+    "population": 429920,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Slovenia",
-    "Capital City": "Ljubljana",
-    "Latitude": 46.0511,
-    "Longitude": 14.5051,
-    "Population": 286491,
-    "Capital Type": "Capital"
+    "country": "Slovenia",
+    "capital": "Ljubljana",
+    "lat": 46.0511,
+    "lng": 14.5051,
+    "population": 286491,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Solomon Islands",
-    "Capital City": "Honiara",
-    "Latitude": -9.4333,
-    "Longitude": 159.95,
-    "Population": 81801,
-    "Capital Type": "Capital"
+    "country": "Solomon Islands",
+    "capital": "Honiara",
+    "lat": -9.4333,
+    "lng": 159.95,
+    "population": 81801,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Somalia",
-    "Capital City": "Muqdisho (Mogadishu)",
-    "Latitude": 2.0416,
-    "Longitude": 45.3435,
-    "Population": 2081624,
-    "Capital Type": "Capital"
+    "country": "Somalia",
+    "capital": "Muqdisho (Mogadishu)",
+    "lat": 2.0416,
+    "lng": 45.3435,
+    "population": 2081624,
+    "capitalType": "Capital"
   },
   {
-    "Country": "South Africa",
-    "Capital City": "Cape Town",
-    "Latitude": -33.9258,
-    "Longitude": 18.4232,
-    "Population": 4430367,
-    "Capital Type": "Legislative Capital"
+    "country": "South Africa",
+    "capital": "Cape Town",
+    "lat": -33.9258,
+    "lng": 18.4232,
+    "population": 4430367,
+    "capitalType": "Legislative Capital"
   },
   {
-    "Country": "South Sudan",
-    "Capital City": "Juba",
-    "Latitude": 4.8517,
-    "Longitude": 31.5825,
-    "Population": 368914,
-    "Capital Type": "Capital"
+    "country": "South Sudan",
+    "capital": "Juba",
+    "lat": 4.8517,
+    "lng": 31.5825,
+    "population": 368914,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Spain",
-    "Capital City": "Madrid",
-    "Latitude": 40.4165,
-    "Longitude": -3.7026,
-    "Population": 6497124,
-    "Capital Type": "Capital"
+    "country": "Spain",
+    "capital": "Madrid",
+    "lat": 40.4165,
+    "lng": -3.7026,
+    "population": 6497124,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Sri Lanka",
-    "Capital City": "Colombo",
-    "Latitude": 6.9319,
-    "Longitude": 79.8478,
-    "Population": 599821,
-    "Capital Type": "Capital"
+    "country": "Sri Lanka",
+    "capital": "Colombo",
+    "lat": 6.9319,
+    "lng": 79.8478,
+    "population": 599821,
+    "capitalType": "Capital"
   },
   {
-    "Country": "State of Palestine",
-    "Capital City": "Al-Quds[East Jerusalem]",
-    "Latitude": 31.7834,
-    "Longitude": 35.2339,
-    "Population": 275086,
-    "Capital Type": "Capital"
+    "country": "State of Palestine",
+    "capital": "Al-Quds[East Jerusalem]",
+    "lat": 31.7834,
+    "lng": 35.2339,
+    "population": 275086,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Sudan",
-    "Capital City": "Al-Khartum (Khartoum)",
-    "Latitude": 15.5518,
-    "Longitude": 32.5324,
-    "Population": 5534079,
-    "Capital Type": "Capital"
+    "country": "Sudan",
+    "capital": "Al-Khartum (Khartoum)",
+    "lat": 15.5518,
+    "lng": 32.5324,
+    "population": 5534079,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Suriname",
-    "Capital City": "Paramaribo",
-    "Latitude": 5.8664,
-    "Longitude": -55.1668,
-    "Population": 239457,
-    "Capital Type": "Capital"
+    "country": "Suriname",
+    "capital": "Paramaribo",
+    "lat": 5.8664,
+    "lng": -55.1668,
+    "population": 239457,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Swaziland",
-    "Capital City": "Mbabane",
-    "Latitude": -26.3167,
-    "Longitude": 31.1333,
-    "Population": 68010,
-    "Capital Type": "Capital"
+    "country": "Swaziland",
+    "capital": "Mbabane",
+    "lat": -26.3167,
+    "lng": 31.1333,
+    "population": 68010,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Sweden",
-    "Capital City": "Stockholm",
-    "Latitude": 59.3326,
-    "Longitude": 18.0649,
-    "Population": 1582968,
-    "Capital Type": "Capital"
+    "country": "Sweden",
+    "capital": "Stockholm",
+    "lat": 59.3326,
+    "lng": 18.0649,
+    "population": 1582968,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Switzerland",
-    "Capital City": "Bern",
-    "Latitude": 46.9481,
-    "Longitude": 7.4474,
-    "Population": 422153,
-    "Capital Type": "Capital"
+    "country": "Switzerland",
+    "capital": "Bern",
+    "lat": 46.9481,
+    "lng": 7.4474,
+    "population": 422153,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Syrian Arab Republic",
-    "Capital City": "Dimashq (Damascus)",
-    "Latitude": 33.5086,
-    "Longitude": 36.3084,
-    "Population": 2319545,
-    "Capital Type": "Capital"
+    "country": "Syrian Arab Republic",
+    "capital": "Dimashq (Damascus)",
+    "lat": 33.5086,
+    "lng": 36.3084,
+    "population": 2319545,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Tajikistan",
-    "Capital City": "Dushanbe",
-    "Latitude": 38.5358,
-    "Longitude": 68.7791,
-    "Population": 872653,
-    "Capital Type": "Capital"
+    "country": "Tajikistan",
+    "capital": "Dushanbe",
+    "lat": 38.5358,
+    "lng": 68.7791,
+    "population": 872653,
+    "capitalType": "Capital"
   },
   {
-    "Country": "TFYR Macedonia",
-    "Capital City": "Skopje",
-    "Latitude": 42,
-    "Longitude": 21.4333,
-    "Population": 584208,
-    "Capital Type": "Capital"
+    "country": "TFYR Macedonia",
+    "capital": "Skopje",
+    "lat": 42,
+    "lng": 21.4333,
+    "population": 584208,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Thailand",
-    "Capital City": "Krung Thep (Bangkok)",
-    "Latitude": 13.722,
-    "Longitude": 100.5252,
-    "Population": 10156316,
-    "Capital Type": "Capital"
+    "country": "Thailand",
+    "capital": "Krung Thep (Bangkok)",
+    "lat": 13.722,
+    "lng": 100.5252,
+    "population": 10156316,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Timor-Leste",
-    "Capital City": "Dili",
-    "Latitude": -8.5601,
-    "Longitude": 125.5668,
-    "Population": 281135,
-    "Capital Type": "Capital"
+    "country": "Timor-Leste",
+    "capital": "Dili",
+    "lat": -8.5601,
+    "lng": 125.5668,
+    "population": 281135,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Togo",
-    "Capital City": "Lomé",
-    "Latitude": 6.1375,
-    "Longitude": 1.2123,
-    "Population": 1745744,
-    "Capital Type": "Capital"
+    "country": "Togo",
+    "capital": "Lomé",
+    "lat": 6.1375,
+    "lng": 1.2123,
+    "population": 1745744,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Tokelau",
-    "Capital City": "Tokelau",
-    "Latitude": -9.38,
-    "Longitude": -171.25,
-    "Population": 0,
-    "Capital Type": "Others"
+    "country": "Tokelau",
+    "capital": "Tokelau",
+    "lat": -9.38,
+    "lng": -171.25,
+    "population": 0,
+    "capitalType": "Others"
   },
   {
-    "Country": "Tonga",
-    "Capital City": "Nuku'alofa",
-    "Latitude": -21.1394,
-    "Longitude": -175.2032,
-    "Population": 22904,
-    "Capital Type": "Capital"
+    "country": "Tonga",
+    "capital": "Nuku'alofa",
+    "lat": -21.1394,
+    "lng": -175.2032,
+    "population": 22904,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Trinidad and Tobago",
-    "Capital City": "Port of Spain",
-    "Latitude": 10.6662,
-    "Longitude": -61.5166,
-    "Population": 544417,
-    "Capital Type": "Capital"
+    "country": "Trinidad and Tobago",
+    "capital": "Port of Spain",
+    "lat": 10.6662,
+    "lng": -61.5166,
+    "population": 544417,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Tunisia",
-    "Capital City": "Tunis",
-    "Latitude": 36.819,
-    "Longitude": 10.1658,
-    "Population": 2290777,
-    "Capital Type": "Capital"
+    "country": "Tunisia",
+    "capital": "Tunis",
+    "lat": 36.819,
+    "lng": 10.1658,
+    "population": 2290777,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Turkey",
-    "Capital City": "Ankara",
-    "Latitude": 39.9199,
-    "Longitude": 32.8543,
-    "Population": 4919074,
-    "Capital Type": "Capital"
+    "country": "Turkey",
+    "capital": "Ankara",
+    "lat": 39.9199,
+    "lng": 32.8543,
+    "population": 4919074,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Turkmenistan",
-    "Capital City": "Ashgabat",
-    "Latitude": 37.95,
-    "Longitude": 58.3833,
-    "Population": 810186,
-    "Capital Type": "Capital"
+    "country": "Turkmenistan",
+    "capital": "Ashgabat",
+    "lat": 37.95,
+    "lng": 58.3833,
+    "population": 810186,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Turks and Caicos Islands",
-    "Capital City": "Cockburn Town",
-    "Latitude": 21.4612,
-    "Longitude": -71.1419,
-    "Population": 5447,
-    "Capital Type": "Capital"
+    "country": "Turks and Caicos Islands",
+    "capital": "Cockburn Town",
+    "lat": 21.4612,
+    "lng": -71.1419,
+    "population": 5447,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Tuvalu",
-    "Capital City": "Funafuti",
-    "Latitude": -8.5189,
-    "Longitude": 179.1991,
-    "Population": 7042,
-    "Capital Type": "Capital"
+    "country": "Tuvalu",
+    "capital": "Funafuti",
+    "lat": -8.5189,
+    "lng": 179.1991,
+    "population": 7042,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Uganda",
-    "Capital City": "Kampala",
-    "Latitude": 0.3163,
-    "Longitude": 32.5822,
-    "Population": 2986352,
-    "Capital Type": "Capital"
+    "country": "Uganda",
+    "capital": "Kampala",
+    "lat": 0.3163,
+    "lng": 32.5822,
+    "population": 2986352,
+    "capitalType": "Capital"
   },
   {
-    "Country": "Ukraine",
-    "Capital City": "Kyiv (Kiev)",
-    "Latitude": 50.4454,
-    "Longitude": 30.5186,
-    "Population": 2956706,
-    "Capital Type": "Capital"
+    "country": "Ukraine",
+    "capital": "Kyiv (Kiev)",
+    "lat": 50.4454,
+    "lng": 30.5186,
+    "population": 2956706,
+    "capitalType": "Capital"
   },
   {
-    "Country": "United Arab Emirates",
-    "Capital City": "Abu Zaby (Abu Dhabi)",
-    "Latitude": 24.4648,
-    "Longitude": 54.3618,
-    "Population": 1419699,
-    "Capital Type": "Capital"
+    "country": "United Arab Emirates",
+    "capital": "Abu Zaby (Abu Dhabi)",
+    "lat": 24.4648,
+    "lng": 54.3618,
+    "population": 1419699,
+    "capitalType": "Capital"
   },
   {
-    "Country": "United Kingdom",
-    "Capital City": "London",
-    "Latitude": 51.5085,
-    "Longitude": -0.1257,
-    "Population": 9046485,
-    "Capital Type": "Capital"
+    "country": "United Kingdom",
+    "capital": "London",
+    "lat": 51.5085,
+    "lng": -0.1257,
+    "population": 9046485,
+    "capitalType": "Capital"
   },
   {
-    "Country": "United Republic of Tanzania",
-    "Capital City": "Dodoma",
-    "Latitude": -6.1722,
-    "Longitude": 35.7395,
-    "Population": 261645,
-    "Capital Type": "Capital"
-  },
-  {
-    "Country": "United States of America",
-    "Capital City": "Washington, D.C.",
-    "Latitude": 38.8951,
-    "Longitude": -77.0364,
-    "Population": 5206593,
-    "Capital Type": "Capital"
-  },
-  {
-    "Country": "United States Virgin Islands",
-    "Capital City": "Charlotte Amalie",
-    "Latitude": 18.3419,
-    "Longitude": -64.9307,
-    "Population": 52322,
-    "Capital Type": "Capital"
-  },
-  {
-    "Country": "Uruguay",
-    "Capital City": "Montevideo",
-    "Latitude": -34.8335,
-    "Longitude": -56.1674,
-    "Population": 1736989,
-    "Capital Type": "Capital"
-  },
-  {
-    "Country": "Uzbekistan",
-    "Capital City": "Tashkent",
-    "Latitude": 41.2647,
-    "Longitude": 69.2163,
-    "Population": 2463969,
-    "Capital Type": "Capital"
-  },
-  {
-    "Country": "Vanuatu",
-    "Capital City": "Port Vila",
-    "Latitude": -17.7338,
-    "Longitude": 168.3219,
-    "Population": 52690,
-    "Capital Type": "Capital"
-  },
-  {
-    "Country": "Venezuela (Bolivarian Republic of)",
-    "Capital City": "Caracas",
-    "Latitude": 10.488,
-    "Longitude": -66.8792,
-    "Population": 2934560,
-    "Capital Type": "Capital"
-  },
-  {
-    "Country": "Viet Nam",
-    "Capital City": "Hà Noi",
-    "Latitude": 21.0245,
-    "Longitude": 105.8412,
-    "Population": 4282738,
-    "Capital Type": "Capital"
-  },
-  {
-    "Country": "Wallis and Futuna Islands",
-    "Capital City": "Matu-Utu",
-    "Latitude": -13.2816,
-    "Longitude": -176.1745,
-    "Population": 1025,
-    "Capital Type": "Capital"
-  },
-  {
-    "Country": "Western Sahara",
-    "Capital City": "El Aaiún",
-    "Latitude": 27.1532,
-    "Longitude": -13.2014,
-    "Population": 232388,
-    "Capital Type": "Capital"
-  },
-  {
-    "Country": "Yemen",
-    "Capital City": "Sana'a'",
-    "Latitude": 15.3531,
-    "Longitude": 44.2078,
-    "Population": 2779317,
-    "Capital Type": "Capital"
-  },
-  {
-    "Country": "Zambia",
-    "Capital City": "Lusaka",
-    "Latitude": -15.4134,
-    "Longitude": 28.2771,
-    "Population": 2523844,
-    "Capital Type": "Capital"
-  },
-  {
-    "Country": "Zimbabwe",
-    "Capital City": "Harare",
-    "Latitude": -17.8294,
-    "Longitude": 31.0539,
-    "Population": 1515016,
-    "Capital Type": "Capital"
+    "country": "United Republic of Tanzania",
+    "capital": "Dodoma",
+    "lat": -6.1722,
+    "lng": 35.7395,
+    "population": 261645,
+    "capitalType": "Capital"
+  },
+  {
+    "country": "United States of America",
+    "capital": "Washington, D.C.",
+    "lat": 38.8951,
+    "lng": -77.0364,
+    "population": 5206593,
+    "capitalType": "Capital"
+  },
+  {
+    "country": "United States Virgin Islands",
+    "capital": "Charlotte Amalie",
+    "lat": 18.3419,
+    "lng": -64.9307,
+    "population": 52322,
+    "capitalType": "Capital"
+  },
+  {
+    "country": "Uruguay",
+    "capital": "Montevideo",
+    "lat": -34.8335,
+    "lng": -56.1674,
+    "population": 1736989,
+    "capitalType": "Capital"
+  },
+  {
+    "country": "Uzbekistan",
+    "capital": "Tashkent",
+    "lat": 41.2647,
+    "lng": 69.2163,
+    "population": 2463969,
+    "capitalType": "Capital"
+  },
+  {
+    "country": "Vanuatu",
+    "capital": "Port Vila",
+    "lat": -17.7338,
+    "lng": 168.3219,
+    "population": 52690,
+    "capitalType": "Capital"
+  },
+  {
+    "country": "Venezuela (Bolivarian Republic of)",
+    "capital": "Caracas",
+    "lat": 10.488,
+    "lng": -66.8792,
+    "population": 2934560,
+    "capitalType": "Capital"
+  },
+  {
+    "country": "Viet Nam",
+    "capital": "Hà Noi",
+    "lat": 21.0245,
+    "lng": 105.8412,
+    "population": 4282738,
+    "capitalType": "Capital"
+  },
+  {
+    "country": "Wallis and Futuna Islands",
+    "capital": "Matu-Utu",
+    "lat": -13.2816,
+    "lng": -176.1745,
+    "population": 1025,
+    "capitalType": "Capital"
+  },
+  {
+    "country": "Western Sahara",
+    "capital": "El Aaiún",
+    "lat": 27.1532,
+    "lng": -13.2014,
+    "population": 232388,
+    "capitalType": "Capital"
+  },
+  {
+    "country": "Yemen",
+    "capital": "Sana'a'",
+    "lat": 15.3531,
+    "lng": 44.2078,
+    "population": 2779317,
+    "capitalType": "Capital"
+  },
+  {
+    "country": "Zambia",
+    "capital": "Lusaka",
+    "lat": -15.4134,
+    "lng": 28.2771,
+    "population": 2523844,
+    "capitalType": "Capital"
+  },
+  {
+    "country": "Zimbabwe",
+    "capital": "Harare",
+    "lat": -17.8294,
+    "lng": 31.0539,
+    "population": 1515016,
+    "capitalType": "Capital"
   }
 ]

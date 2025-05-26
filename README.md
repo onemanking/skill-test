@@ -7,6 +7,7 @@ Create a new page to show a country tag as selected
 ### Bankend
 1) Create a migration and seed data into the db using data from `./backend/mockup/country.json`
 1) Create Api for insert and query to serve Frontend
+1) Update Readme of how to run migration and seed data
 
 ### Frontend
 1) A user can search by typing on a searchbox and click filters button
@@ -26,7 +27,7 @@ Expect: new result will be shown on the country list but the tag remain the same
 1) Same as Junior
 2) Make the searchbox become a autocomplete with maximum 3 suggestion countries
 3) Check component rerender
-4) Create command `yarn db` to run migration and `yarn seed` to seed data 
+4) Create command `yarn db:migration` to run migration and `yarn db:seed` to seed data 
 5) Improve api (e.g. caching, etag, etc)
 6) Add validation when adding a new country (country name must be unique case insensitive)
 
