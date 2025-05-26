@@ -27,9 +27,9 @@ elif [[ ${1} == "shell" ]]; then
   docker exec -it $(docker ps --filter name=${DOCKER_NAME} -q) \
     bash -c 'cd /app && /bin/bash'
 else
-  EXITED_CONTAINERS=$(docker ps --filter name="${DOCKER_NAME}" --filter status=exited -q)
-  if [ -n "$EXITED_CONTAINERS" ]; then
-    docker rm $EXITED_CONTAINERS
+  if [ "$(docker ps -aq -f name=^/${DOCKER_NAME}$)" ]; then
+    echo "Removing existing container: $DOCKER_NAME"
+    docker rm -f $DOCKER_NAME
   else
     echo "No exited containers found for name: ${DOCKER_NAME}"
   fi
