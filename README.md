@@ -10,11 +10,8 @@ We use **React** for the frontend and **Express** for the backend.
 
 Create a new page to display selected country tags.
 
-### Backend
-
-1. Create a migration and seed data into the database using the data from `./backend/mockup/country.json`.
-2. Create APIs for inserting and querying data to serve the frontend.
-3. Update this `README.md` with instructions on how to run the migration and seed data.
+![Alt text](./frontend/public/TableWithoutTag.png)
+![Alt text](./frontend/public/TableWithTags.png)
 
 ### Frontend
 
@@ -29,6 +26,12 @@ Create a new page to display selected country tags.
 
 4. A user can change pages in the country list.  
    **Expectation:** The new results should be shown, and the selected tags should remain.
+
+### Backend
+
+1. Create a migration and seed data into the database using the data from `./backend/mockup/country.json`.
+2. Create APIs for inserting and querying data to serve the frontend.
+3. Update this `README.md` with instructions on how to run the migration and seed data.
 
 ---
 
