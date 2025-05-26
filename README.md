@@ -26,8 +26,9 @@ Expect: new result will be shown on the country list but the tag remain the same
 1) Same as Junior
 2) Make the searchbox become a autocomplete with maximum 3 suggestion countries
 3) Check component rerender
-4) Improve api (e.g. caching, etag, etc)
-5) Add validation when adding a new country (country name must be unique case insensitive)
+4) Create command `yarn db` to run migration and `yarn seed` to seed data 
+5) Improve api (e.g. caching, etag, etc)
+6) Add validation when adding a new country (country name must be unique case insensitive)
 
 ### Senior
 1) Same as Mid level
