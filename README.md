@@ -65,14 +65,15 @@ cd ./backend
 3) mockfile (mockup/country.json)
 
 #### How to start project
+1) rename `.env.example` to `.env`
 1) open `docker`
-2) run docker
+1) run docker
 ```bash
 cd backend
 chmod +x ./docker.sh
 ./docker.sh
 ```
-3) start project
+1) start project
 ```bash
 yarn dev
 ```
