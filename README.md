@@ -27,6 +27,8 @@ Create a new page to display selected country tags.
 4. A user can change pages in the country list.  
    **Expectation:** The new results should be shown, and the selected tags should remain.
 
+   <span style="color:red">Note: Style and design are not important. Please do them last, they can give you extra points</span>.
+
 ### Backend
 
 1. Create a migration and seed data into the database using the data from `./backend/mockup/country.json`.
