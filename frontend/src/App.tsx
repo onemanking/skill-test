@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      <div className="w-full h-fix absolute">
+      <div className="w-full">
         <div>
           <p>Skill test</p>          
         </div>
