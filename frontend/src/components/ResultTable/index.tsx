@@ -1,6 +1,7 @@
 import React, { useState, useRef, useEffect } from 'react';
 import type { Country } from '../../types/country';
 import './index.css';
+import Tag from '../Tag';
 
 interface ResultTableProps {
     countries: Country[];
@@ -91,21 +92,11 @@ const ResultTable: React.FC<ResultTableProps> = ({ countries }) => {
                         {selectedIds.map((id) => {
                             const country = countries.find(c => c.id.toString() === id);
                             return (
-                                <span
+                                <Tag
                                     key={id}
-                                    className="result-table-tag"
-                                >
-                                    {country ? country.country : id}
-                                    <button
-                                        onClick={() =>
-                                            setSelectedIds(prev => prev.filter(sid => sid !== id))
-                                        }
-                                        aria-label={`Remove ${country ? country.country : id}`}
-                                        type="button"
-                                    >
-                                        ×
-                                    </button>
-                                </span>
+                                    label={country ? country.country : id}
+                                    onRemove={() => setSelectedIds(prev => prev.filter(sid => sid !== id))}
+                                />
                             );
                         })}
                     </>
