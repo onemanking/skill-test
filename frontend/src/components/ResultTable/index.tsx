@@ -80,6 +80,10 @@ const ResultTable: React.FC<ResultTableProps> = ({ countries }) => {
         if (currentPage > totalPages) setCurrentPage(totalPages || 1);
     }, [totalPages, currentPage]);
 
+    useEffect(() => {
+        setSelectedIds([]);
+    }, [countries]);
+
     return (
         <div className="result-table">
 
