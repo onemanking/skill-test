@@ -12,3 +12,13 @@ datasource db {
   provider = "postgresql"
   url      = env("DATABASE_URL")
 }
+
+model Country {
+  id          Int    @id @default(autoincrement())
+  country     String @unique
+  capital     String
+  lat         Float
+  lng         Float
+  population  Int
+  capitalType String
+}

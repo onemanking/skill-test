@@ -1,17 +1,24 @@
 {
+  "prisma": {
+    "seed": "ts-node prisma/seed.ts"
+  },
   "scripts": {
-    "dev": "ts-node src/server.ts"
+    "dev": "ts-node src/server.ts",
+    "build": "tsc",
+    "db:migration": "npx prisma migrate dev --name init",
+    "db:seed": "npx prisma db seed"
   },
   "dependencies": {
     "@prisma/client": "^6.8.2",
     "cors": "^2.8.5",
     "express": "^5.1.0",
-    "reflect-metadata": "^0.2.2"
+    "reflect-metadata": "^0.2.2",
+    "save-dev": "^0.0.1-security"
   },
   "devDependencies": {
     "@types/cors": "^2.8.18",
     "@types/express": "^5.0.2",
-    "@types/node": "^22.15.21",
+    "@types/node": "^22.15.31",
     "prisma": "^6.8.2",
     "ts-node": "^10.9.2",
     "typescript": "^5.8.3"
