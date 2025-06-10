@@ -3,8 +3,7 @@ import InsertButton from './components/InsertButton';
 import ResultTable from './components/ResultTable';
 import Searchbox from './components/Searchbox'
 import { useState } from 'react'
-
-const baseUrl = import.meta.env.VITE_API_URL || "http://localhost:3000";
+import { fetchCountries } from './services/api/countryApi';
 
 function App() {
   const [search, setSearch] = useState("");
@@ -14,13 +13,9 @@ function App() {
   const handleSearch = async () => {
     setLoading(true);
     try {
-      const apiURL = `${baseUrl}/countries`;
-      const url = search ? `${apiURL}?search=${encodeURIComponent(search)}` : apiURL;
-      const res = await fetch(url);
-      const data = await res.json();
+      const data = await fetchCountries(search);
       setCountries(data);
-    } catch (err) {
-      console.error("API error:", err);
+    } catch {
       setCountries([]);
     }
     setLoading(false);

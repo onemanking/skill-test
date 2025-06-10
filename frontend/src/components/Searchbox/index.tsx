@@ -1,5 +1,6 @@
 import React, { useState, useRef, useEffect } from 'react';
 import './index.css';
+import { fetchCountries } from '../../services/api/countryApi';
 
 const Searchbox: React.FC<{
     search: string;
@@ -19,10 +20,7 @@ const Searchbox: React.FC<{
         }
         const fetchSuggestions = async () => {
             try {
-                const baseUrl = import.meta.env.VITE_API_URL || "http://localhost:3000";
-                const url = `${baseUrl}/countries?search=${encodeURIComponent(search)}`;
-                const res = await fetch(url);
-                const data: { country: string }[] = await res.json();
+                const data: { country: string }[] = await fetchCountries(search);
                 setSuggestions(data.slice(0, maxSuggestions).map((c) => c.country));
             } catch {
                 setSuggestions([]);
