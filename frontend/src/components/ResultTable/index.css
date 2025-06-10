@@ -27,7 +27,6 @@
 .result-table-pagination {
   display: flex;
   align-items: center;
-  justify-content: flex-front;
   margin-top: 12px;
 }
 .result-table-pagination button {

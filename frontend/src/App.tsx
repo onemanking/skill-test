@@ -1,4 +1,5 @@
 import './App.css'
+import InsertButton from './components/InsertButton';
 import ResultTable from './components/ResultTable';
 import Searchbox from './components/Searchbox'
 import { useState } from 'react'
@@ -29,7 +30,10 @@ function App() {
     <>
       <div className="w-full">
         <div>
-          <p>Countries of the World</p>
+          <div className='header-row'>
+            <p>Countries of the World</p>
+            <InsertButton onClick={() => { }} />
+          </div>
           <Searchbox
             search={search}
             setSearch={setSearch}
