@@ -24,3 +24,24 @@
 .result-table-sortable {
   cursor: pointer;
 }
+.result-table-pagination {
+  display: flex;
+  align-items: center;
+  justify-content: flex-front;
+  margin-top: 12px;
+}
+.result-table-pagination button {
+  padding: 4px 12px;
+  margin: 0 4px;
+  border: 1px solid #ccc;
+  background: #f8f8f8;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.result-table-pagination button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+.result-table-pagination-info {
+  margin: 0 12px;
+}

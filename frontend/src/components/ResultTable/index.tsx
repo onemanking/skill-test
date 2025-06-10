@@ -13,6 +13,13 @@ const ResultTable: React.FC<ResultTableProps> = ({ countries }) => {
     const [sortKey, setSortKey] = useState<SortKey>('country');
     const [sortDirection, setSortDirection] = useState<SortDirection>('asc');
     const [selectedIds, setSelectedIds] = useState<string[]>([]);
+    const [currentPage, setCurrentPage] = useState(1);
+    const itemsPerPage = 10;
+    const totalPages = Math.ceil(countries.length / itemsPerPage);
+    const paginatedCountries = countries.slice(
+        (currentPage - 1) * itemsPerPage,
+        currentPage * itemsPerPage
+    );
     const selectAllRef = useRef<HTMLInputElement>(null);
 
     const handleSort = (key: SortKey) => {
@@ -24,7 +31,7 @@ const ResultTable: React.FC<ResultTableProps> = ({ countries }) => {
         }
     };
 
-    const sortedCountries = [...countries].sort((a, b) => {
+    const sortedCountries = [...paginatedCountries].sort((a, b) => {
         const aValue = a[sortKey];
         const bValue = b[sortKey];
         if (typeof aValue === 'string' && typeof bValue === 'string') {
@@ -50,22 +57,33 @@ const ResultTable: React.FC<ResultTableProps> = ({ countries }) => {
     };
 
     const handleSelectAll = () => {
-        if (selectedIds.length === sortedCountries.length) {
-            setSelectedIds([]);
+        const pageIds = sortedCountries.map((c) => c.id.toString());
+        const allSelected = pageIds.every(id => selectedIds.includes(id));
+        if (allSelected) {
+            setSelectedIds(prev => prev.filter(id => !pageIds.includes(id)));
         } else {
-            setSelectedIds(sortedCountries.map((c) => c.id.toString()));
+            setSelectedIds(prev => [...prev, ...pageIds.filter(id => !prev.includes(id))]);
         }
     };
 
     useEffect(() => {
         if (selectAllRef.current) {
+            const pageIds = sortedCountries.map((c) => c.id.toString());
+            const selectedOnPage = pageIds.filter(id => selectedIds.includes(id)).length;
             selectAllRef.current.indeterminate =
-                selectedIds.length > 0 && selectedIds.length < sortedCountries.length;
+                selectedOnPage > 0 && selectedOnPage < pageIds.length;
         }
-    }, [selectedIds, sortedCountries.length]);
+    }, [selectedIds, sortedCountries]);
+
+    useEffect(() => {
+        if (currentPage > totalPages) setCurrentPage(totalPages || 1);
+    }, [totalPages, currentPage]);
 
     return (
         <div className="result-table">
+
+            {/* Selected items */}
+
             <div className="result-table-tags">
                 {selectedIds.length > 0 && (
                     <>
@@ -93,6 +111,9 @@ const ResultTable: React.FC<ResultTableProps> = ({ countries }) => {
                     </>
                 )}
             </div>
+
+            {/* Table */}
+
             <table>
                 <thead>
                     <tr>
@@ -100,7 +121,10 @@ const ResultTable: React.FC<ResultTableProps> = ({ countries }) => {
                             <input
                                 type="checkbox"
                                 ref={selectAllRef}
-                                checked={selectedIds.length === sortedCountries.length && sortedCountries.length > 0}
+                                checked={
+                                    sortedCountries.length > 0 &&
+                                    sortedCountries.every(c => selectedIds.includes(c.id.toString()))
+                                }
                                 onChange={handleSelectAll}
                                 aria-label="Select all"
                             />
@@ -134,6 +158,26 @@ const ResultTable: React.FC<ResultTableProps> = ({ countries }) => {
                     ))}
                 </tbody>
             </table>
+
+            {/* Page controls */}
+
+            <div className="result-table-pagination">
+                <button
+                    onClick={() => setCurrentPage((p) => Math.max(1, p - 1))}
+                    disabled={currentPage === 1}
+                >
+                    Previous
+                </button>
+                <span className="result-table-pagination-info">
+                    Page {currentPage} of {totalPages || 1}
+                </span>
+                <button
+                    onClick={() => setCurrentPage((p) => Math.min(totalPages, p + 1))}
+                    disabled={currentPage === totalPages || totalPages === 0}
+                >
+                    Next
+                </button>
+            </div>
         </div>
     );
 };
