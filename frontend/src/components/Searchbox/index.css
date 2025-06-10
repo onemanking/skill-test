@@ -1,0 +1,24 @@
+.searchbox-autocomplete {
+  position: relative;
+}
+.autocomplete-suggestions {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  background: #fff;
+  border: 1px solid #ccc;
+  z-index: 10;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  max-height: 180px;
+  overflow-y: auto;
+}
+.autocomplete-suggestion-item {
+  padding: 6px 12px;
+  cursor: pointer;
+}
+.autocomplete-suggestion-item:hover {
+  background: #f0f0f0;
+}
