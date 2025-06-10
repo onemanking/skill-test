@@ -1,0 +1,15 @@
+services:
+  frontend:
+    image: frontend-app
+    build:
+      context: .
+    ports:
+      - "5173:5173"
+    working_dir: /app
+    volumes:
+      - .:/app
+      - /app/node_modules
+    environment:
+      - NODE_ENV=development
+      - REACT_APP_API_URL=${REACT_APP_API_URL}
+    restart: always
