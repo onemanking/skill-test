@@ -1,3 +1,4 @@
+import crypto from "crypto";
 import express, { Request, Response, NextFunction } from "express";
 import cors from "cors";
 import { PrismaClient, Prisma } from "@prisma/client";
@@ -7,6 +8,13 @@ const prisma = new PrismaClient();
 
 app.use(cors());
 app.use(express.json());
+
+const countryCache = new Map<
+  string,
+  { data: any; etag: string; expires: number }
+>();
+
+const cacheMaxAge = parseInt(process.env.CACHE_MAX_AGE || "60", 10);
 
 app.get("/", (req: Request, res: Response) => {
   res.send("Hello World!");
@@ -72,12 +80,46 @@ app.get(
           }
         : {};
 
+      const cacheKey = JSON.stringify({ search, skip, take });
+      const now = Date.now();
+      const cached = countryCache.get(cacheKey);
+      if (cached && cached.expires > now) {
+        if (req.headers["if-none-match"] === cached.etag) {
+          res.status(304).end();
+          return;
+        }
+        res.setHeader("ETag", cached.etag);
+        res.setHeader("Cache-Control", `public, max-age=${cacheMaxAge}`);
+        res.status(200).json(cached.data);
+        return;
+      }
+
       const countries = await prisma.country.findMany({
         where,
         skip: skip ? Number(skip) : undefined,
         take: take ? Number(take) : undefined,
       });
 
+      // ETag with hash
+      const etag = crypto
+        .createHash("md5")
+        .update(JSON.stringify(countries))
+        .digest("hex");
+
+      countryCache.set(cacheKey, {
+        data: countries,
+        etag,
+        expires: now + cacheMaxAge * 1000,
+      });
+
+      // Check If-None-Match header
+      if (req.headers["if-none-match"] === etag) {
+        res.status(304).end();
+        return;
+      }
+
+      res.setHeader("ETag", etag);
+      res.setHeader("Cache-Control", `public, max-age=${cacheMaxAge}`);
       res.status(200).json(countries);
     } catch (error) {
       next(error);
