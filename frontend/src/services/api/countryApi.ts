@@ -1,5 +1,5 @@
 export async function fetchCountries(search: string) {
-  const baseUrl = import.meta.env.VITE_API_URL || 'http://localhost:3000';
+  const baseUrl = import.meta.env.REACT_APP_API_URL || 'http://localhost:3000';
   const apiURL = `${baseUrl}/countries`;
   const url = search
     ? `${apiURL}?search=${encodeURIComponent(search)}`
